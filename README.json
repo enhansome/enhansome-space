@@ -38,7 +38,7 @@
             "last_commit": "2026-08-12T04:05:04Z",
             "owner": "nyx-space",
             "repo": "anise",
-            "stars": 263
+            "stars": 264
           }
         },
         {
@@ -471,7 +471,7 @@
             "last_commit": "2026-08-13T02:55:11Z",
             "owner": "nasa",
             "repo": "fprime",
-            "stars": 11650
+            "stars": 11651
           }
         },
         {
@@ -714,7 +714,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:00:59.770Z",
+    "last_updated": "2026-08-13T07:19:02.941Z",
     "original_repository": "orbitalindex/awesome-space",
     "original_repository_sha": "af163ffca3265b31876784addde76a4249dfb895",
     "enhanced_repository": "enhansome/enhansome-space",
