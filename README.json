@@ -38,7 +38,7 @@
             "last_commit": "2026-08-12T04:05:04Z",
             "owner": "nyx-space",
             "repo": "anise",
-            "stars": 264
+            "stars": 265
           }
         },
         {
@@ -72,7 +72,7 @@
             "last_commit": "2026-08-07T13:13:19Z",
             "owner": "hannorein",
             "repo": "rebound",
-            "stars": 1119
+            "stars": 1121
           }
         },
         {
@@ -186,10 +186,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-11T22:23:15Z",
+            "last_commit": "2026-08-13T23:45:11Z",
             "owner": "nasa",
             "repo": "openmct",
-            "stars": 13079
+            "stars": 13082
           }
         },
         {
@@ -223,7 +223,7 @@
             "last_commit": "2023-10-14T15:30:47Z",
             "owner": "poliastro",
             "repo": "poliastro",
-            "stars": 1017
+            "stars": 1018
           }
         },
         {
@@ -248,10 +248,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-12T18:26:58Z",
+            "last_commit": "2026-08-13T11:04:02Z",
             "owner": "nyx-space",
             "repo": "nyx",
-            "stars": 474
+            "stars": 475
           }
         },
         {
@@ -324,7 +324,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-12T07:23:39Z",
+            "last_commit": "2026-08-13T07:25:47Z",
             "owner": "AVSLab",
             "repo": "basilisk",
             "stars": 368
@@ -338,7 +338,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-11T20:55:55Z",
+            "last_commit": "2026-08-13T21:57:40Z",
             "owner": "nasa",
             "repo": "trick",
             "stars": 161
@@ -352,7 +352,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T17:01:43Z",
+            "last_commit": "2026-08-14T05:38:41Z",
             "owner": "dotchance",
             "repo": "nodalarc",
             "stars": 6
@@ -468,10 +468,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T02:55:11Z",
+            "last_commit": "2026-08-14T02:43:42Z",
             "owner": "nasa",
             "repo": "fprime",
-            "stars": 11651
+            "stars": 11654
           }
         },
         {
@@ -510,7 +510,7 @@
           "repo_info": {
             "archived": false,
             "language": "VHDL",
-            "last_commit": "2026-03-20T16:13:42Z",
+            "last_commit": "2026-08-13T20:46:41Z",
             "owner": "the-aerospace-corporation",
             "repo": "satcat5",
             "stars": 506
@@ -714,7 +714,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T07:19:02.941Z",
+    "last_updated": "2026-08-14T07:17:20.246Z",
     "original_repository": "orbitalindex/awesome-space",
     "original_repository_sha": "af163ffca3265b31876784addde76a4249dfb895",
     "enhanced_repository": "enhansome/enhansome-space",
