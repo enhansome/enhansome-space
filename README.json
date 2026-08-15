@@ -24,7 +24,7 @@
             "last_commit": "2026-07-03T13:15:31Z",
             "owner": "hyqzz",
             "repo": "Solar-Wanderer",
-            "stars": 701
+            "stars": 702
           }
         },
         {
@@ -186,10 +186,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T23:45:11Z",
+            "last_commit": "2026-08-14T20:44:54Z",
             "owner": "nasa",
             "repo": "openmct",
-            "stars": 13082
+            "stars": 13083
           }
         },
         {
@@ -251,7 +251,7 @@
             "last_commit": "2026-08-13T11:04:02Z",
             "owner": "nyx-space",
             "repo": "nyx",
-            "stars": 475
+            "stars": 476
           }
         },
         {
@@ -313,7 +313,7 @@
             "last_commit": "2026-08-12T15:29:45Z",
             "owner": "nasa",
             "repo": "nos3",
-            "stars": 607
+            "stars": 608
           }
         },
         {
@@ -341,7 +341,7 @@
             "last_commit": "2026-08-13T21:57:40Z",
             "owner": "nasa",
             "repo": "trick",
-            "stars": 161
+            "stars": 162
           }
         },
         {
@@ -352,7 +352,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T05:38:41Z",
+            "last_commit": "2026-08-14T17:35:58Z",
             "owner": "dotchance",
             "repo": "nodalarc",
             "stars": 6
@@ -468,10 +468,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T02:43:42Z",
+            "last_commit": "2026-08-14T21:24:30Z",
             "owner": "nasa",
             "repo": "fprime",
-            "stars": 11654
+            "stars": 11657
           }
         },
         {
@@ -485,7 +485,7 @@
             "last_commit": "2026-08-12T16:34:21Z",
             "owner": "nasa",
             "repo": "cFS",
-            "stars": 1452
+            "stars": 1454
           }
         },
         {
@@ -575,7 +575,7 @@
             "last_commit": "2026-07-23T08:58:17Z",
             "owner": "shashwatak",
             "repo": "satellite-js",
-            "stars": 1075
+            "stars": 1076
           }
         },
         {
@@ -589,7 +589,7 @@
             "last_commit": "2026-07-12T18:56:06Z",
             "owner": "brandon-rhodes",
             "repo": "python-sgp4",
-            "stars": 468
+            "stars": 469
           }
         },
         {
@@ -692,6 +692,20 @@
         },
         {
           "node_type": "item",
+          "title": "SIMPLETON",
+          "description": "All-vs-all conjunction screener inspired by and validated against CelesTrak SOCRATES. Scans the entire catalog in under 30 seconds on consumer hardware.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-14T14:24:04Z",
+            "owner": "Salad109",
+            "repo": "SIMPLETON",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
           "title": "spacedata",
           "description": "AI-friendly CLI aggregating public space data — orbital elements with derived perigee/apogee/period, satellite catalog, conjunction and launch data from CelesTrak, Space-Track and Launch Library 2 — as single JSON documents with built-in caching and upstream rate-limit protection.",
           "children": [],
@@ -714,9 +728,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T07:17:20.246Z",
+    "last_updated": "2026-08-15T06:29:05.252Z",
     "original_repository": "orbitalindex/awesome-space",
-    "original_repository_sha": "af163ffca3265b31876784addde76a4249dfb895",
+    "original_repository_sha": "8b6aee6a547bd6c1909c8f7f414fbea829e0fa30",
     "enhanced_repository": "enhansome/enhansome-space",
     "enhanced_repository_description": null,
     "title": "Awesome Space with stars"
