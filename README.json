@@ -24,7 +24,7 @@
             "last_commit": "2026-07-03T13:15:31Z",
             "owner": "hyqzz",
             "repo": "Solar-Wanderer",
-            "stars": 702
+            "stars": 703
           }
         },
         {
@@ -38,7 +38,7 @@
             "last_commit": "2026-08-12T04:05:04Z",
             "owner": "nyx-space",
             "repo": "anise",
-            "stars": 265
+            "stars": 266
           }
         },
         {
@@ -189,7 +189,7 @@
             "last_commit": "2026-08-14T20:44:54Z",
             "owner": "nasa",
             "repo": "openmct",
-            "stars": 13083
+            "stars": 13084
           }
         },
         {
@@ -324,10 +324,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-13T07:25:47Z",
+            "last_commit": "2026-08-15T06:35:19Z",
             "owner": "AVSLab",
             "repo": "basilisk",
-            "stars": 368
+            "stars": 369
           }
         },
         {
@@ -341,7 +341,7 @@
             "last_commit": "2026-08-13T21:57:40Z",
             "owner": "nasa",
             "repo": "trick",
-            "stars": 162
+            "stars": 161
           }
         },
         {
@@ -468,10 +468,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T21:24:30Z",
+            "last_commit": "2026-08-15T21:13:57Z",
             "owner": "nasa",
             "repo": "fprime",
-            "stars": 11657
+            "stars": 11665
           }
         },
         {
@@ -728,7 +728,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T06:29:05.252Z",
+    "last_updated": "2026-08-16T06:31:06.187Z",
     "original_repository": "orbitalindex/awesome-space",
     "original_repository_sha": "8b6aee6a547bd6c1909c8f7f414fbea829e0fa30",
     "enhanced_repository": "enhansome/enhansome-space",
