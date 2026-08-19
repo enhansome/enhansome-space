@@ -65,8 +65,8 @@ A curated list of space-related code, APIs, data, and other resources.
 
 #### Visualization
 
-* [Solar Wanderer](https://sw.icodestar.net) - A 1:1 real-time, browser-based solar system explorer using NASA JPL ephemerides. Seamless landing from orbit to walking on the surface, ray-marched atmospheres, and coverage out to the Oort Cloud. ([source](https://github.com/hyqzz/Solar-Wanderer) ⭐ 709 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-03)
-* [ANISE](https://github.com/nyx-space/anise) ⭐ 266 | 🐛 28 | 🌐 Rust | 📅 2026-08-19 - ANISE provides a toolkit and files for Attitude, Navigation, Instrument, Spacecraft, and Ephemeris data. It's a modern replacement of the NAIF SPICE toolkit.
+* [Solar Wanderer](https://sw.icodestar.net) - A 1:1 real-time, browser-based solar system explorer using NASA JPL ephemerides. Seamless landing from orbit to walking on the surface, ray-marched atmospheres, and coverage out to the Oort Cloud. ([source](https://github.com/hyqzz/Solar-Wanderer) ⭐ 710 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-03)
+* [ANISE](https://github.com/nyx-space/anise) ⭐ 266 | 🐛 29 | 🌐 Rust | 📅 2026-08-19 - ANISE provides a toolkit and files for Attitude, Navigation, Instrument, Spacecraft, and Ephemeris data. It's a modern replacement of the NAIF SPICE toolkit.
 * [Harmony of the Spheres](https://github.com/TheHappyKoala/Harmony-of-the-Spheres) ⭐ 136 | 🐛 25 | 🌐 TypeScript | 📅 2026-07-17 - Newtonian gravity and space simulator that runs in your browser
 * [100,000 Stars](https://stars.chromeexperiments.com/) - 100,000 Stars is an interactive visualization of the stellar neighborhood showing the location of 119,617 nearby stars.
 * [Celestia](https://celestia.space/) - Free real-time 3D visualization of space. (See also [Celestia Motherlode](http://www.celestiamotherlode.net/) for many add-ons.)
@@ -235,7 +235,7 @@ A curated list of space-related code, APIs, data, and other resources.
 
 ### Mission Control
 
-* [Open MCT](https://github.com/nasa/openmct) ⭐ 13,084 | 🐛 1,068 | 🌐 JavaScript | 📅 2026-08-18 - Ames's next-generation mission control framework for visualization of data on desktop and mobile devices.
+* [Open MCT](https://github.com/nasa/openmct) ⭐ 13,085 | 🐛 1,068 | 🌐 JavaScript | 📅 2026-08-18 - Ames's next-generation mission control framework for visualization of data on desktop and mobile devices.
 * [pluto-ecss](https://github.com/stzifkas/pluto-ecss) ⭐ 4 | 🐛 33 | 🌐 Python | 📅 2026-06-10 - Transpiler and runtime for PLUTO (ECSS-E-ST-70-32C), the standardised spacecraft operations procedure language. Compiles procedures to readable Python; includes a CLI and a browser playground.
 * [COSMOS](https://openc3.com/) - Open source mission control and satellite test & development framework
 * [Yamcs](https://yamcs.org) - Open source mission control framework (works also as backend for OpenMCT).
@@ -317,7 +317,7 @@ A curated list of space-related code, APIs, data, and other resources.
 
 #### Legacy
 
-* [Apollo 11 Guidance Code](https://github.com/chrislgarry/Apollo-11) ⭐ 72,106 | 🐛 131 | 🌐 Assembly | 📅 2026-07-15 - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules
+* [Apollo 11 Guidance Code](https://github.com/chrislgarry/Apollo-11) ⭐ 72,113 | 🐛 131 | 🌐 Assembly | 📅 2026-07-15 - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules
 
 ### Tracking & Orbit Determination
 

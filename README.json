@@ -1,791 +1,853 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Solar Wanderer",
+                  "description": "A 1:1 real-time, browser-based solar system explorer using NASA JPL ephemerides. Seamless landing from orbit to walking on the surface, ray-marched atmospheres, and coverage out to the Oort Cloud. (source)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1267008278,
+                    "language": "JavaScript",
+                    "last_commit": "2026-07-03T13:15:31Z",
+                    "owner": "hyqzz",
+                    "repo": "Solar-Wanderer",
+                    "stars": 710
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ANISE",
+                  "description": "ANISE provides a toolkit and files for Attitude, Navigation, Instrument, Spacecraft, and Ephemeris data. It's a modern replacement of the NAIF SPICE toolkit.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 433689468,
+                    "language": "Rust",
+                    "last_commit": "2026-08-19T03:42:22Z",
+                    "owner": "nyx-space",
+                    "repo": "anise",
+                    "stars": 266
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Harmony of the Spheres",
+                  "description": "Newtonian gravity and space simulator that runs in your browser",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 136357715,
+                    "language": "TypeScript",
+                    "last_commit": "2026-07-17T14:24:44Z",
+                    "owner": "TheHappyKoala",
+                    "repo": "Harmony-of-the-Spheres",
+                    "stars": 136
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Visualization"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Astronomy Software"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Rebound",
+              "description": "A multi-purpose N-body integrator",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1987576,
+                "language": "C",
+                "last_commit": "2026-08-18T13:18:47Z",
+                "owner": "hannorein",
+                "repo": "rebound",
+                "stars": 1122
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AstroKit",
+              "description": "A web-based toolset for performing lightcurve photometry",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47933931,
+                "language": "Python",
+                "last_commit": "2026-04-04T20:48:15Z",
+                "owner": "typpo",
+                "repo": "astrokit",
+                "stars": 17
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "SDKs & Software Development Tools"
+        }
+      ],
       "title": "Astronomy"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Astronomy Software"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Solar Wanderer",
-          "description": "A 1:1 real-time, browser-based solar system explorer using NASA JPL ephemerides. Seamless landing from orbit to walking on the surface, ray-marched atmospheres, and coverage out to the Oort Cloud. (source)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-03T13:15:31Z",
-            "owner": "hyqzz",
-            "repo": "Solar-Wanderer",
-            "stars": 709
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ANISE",
-          "description": "ANISE provides a toolkit and files for Attitude, Navigation, Instrument, Spacecraft, and Ephemeris data. It's a modern replacement of the NAIF SPICE toolkit.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-19T03:42:22Z",
-            "owner": "nyx-space",
-            "repo": "anise",
-            "stars": 266
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Harmony of the Spheres",
-          "description": "Newtonian gravity and space simulator that runs in your browser",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-17T14:24:44Z",
-            "owner": "TheHappyKoala",
-            "repo": "Harmony-of-the-Spheres",
-            "stars": 136
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Space Jargon Cheatsheet",
+              "description": "list of space-related terms and jargon",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 497330149,
+                "language": null,
+                "last_commit": "2025-01-22T00:14:21Z",
+                "owner": "LunCoSim",
+                "repo": "lunco-space-jargon",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RDFvocab",
+              "description": "A collection of linked data ontologies (semantically linked representations) that describe astronomical and space engineering concepts. Can be used to link popular data sets like DBPedia.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40352673,
+                "language": "Python",
+                "last_commit": "2021-05-31T16:25:51Z",
+                "owner": "chronos-pramantha",
+                "repo": "RDFvocab",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Space Autonomy",
+              "description": "Curated research, flight demonstrations, software, tools, and guidance for autonomous spacecraft and space robots.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1337106386,
+                "language": null,
+                "last_commit": "2026-08-17T20:07:08Z",
+                "owner": "sylvesterkaczmarek",
+                "repo": "awesome-space-autonomy",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Learning Materials"
         }
       ],
-      "title": "Visualization"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Rebound",
-          "description": "A multi-purpose N-body integrator",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-18T13:18:47Z",
-            "owner": "hannorein",
-            "repo": "rebound",
-            "stars": 1122
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AstroKit",
-          "description": "A web-based toolset for performing lightcurve photometry",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-04T20:48:15Z",
-            "owner": "typpo",
-            "repo": "astrokit",
-            "stars": 17
-          }
-        }
-      ],
-      "title": "SDKs & Software Development Tools"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Community"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Space Jargon Cheatsheet",
-          "description": "list of space-related terms and jargon",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-01-22T00:14:21Z",
-            "owner": "LunCoSim",
-            "repo": "lunco-space-jargon",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RDFvocab",
-          "description": "A collection of linked data ontologies (semantically linked representations) that describe astronomical and space engineering concepts. Can be used to link popular data sets like DBPedia.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-05-31T16:25:51Z",
-            "owner": "chronos-pramantha",
-            "repo": "RDFvocab",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Space Autonomy",
-          "description": "Curated research, flight demonstrations, software, tools, and guidance for autonomous spacecraft and space robots.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-17T20:07:08Z",
-            "owner": "sylvesterkaczmarek",
-            "repo": "awesome-space-autonomy",
-            "stars": 0
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "pyspaceweather",
+              "description": "A Python wrapper for getting space weather data from Australia's Bureau of Meteorology.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 819791473,
+                "language": "Python",
+                "last_commit": "2025-01-24T04:34:55Z",
+                "owner": "ben-nour",
+                "repo": "pyspaceweather",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "orbital-cotwo-web",
+              "description": "A data processing pipeline and web server that can dump HDF5 files from NASA's Orbital Carbon Observatory 2 mission into an SQL database.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51470141,
+                "language": "Python",
+                "last_commit": "2022-09-13T09:55:18Z",
+                "owner": "chronos-pramantha",
+                "repo": "orbital-cotwo-web",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Data Wrangling Tools"
         }
       ],
-      "title": "Learning Materials"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Data"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "pyspaceweather",
-          "description": "A Python wrapper for getting space weather data from Australia's Bureau of Meteorology.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-01-24T04:34:55Z",
-            "owner": "ben-nour",
-            "repo": "pyspaceweather",
-            "stars": 17
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Open MCT",
+              "description": "Ames's next-generation mission control framework for visualization of data on desktop and mobile devices.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36753839,
+                "language": "JavaScript",
+                "last_commit": "2026-08-18T22:41:39Z",
+                "owner": "nasa",
+                "repo": "openmct",
+                "stars": 13085
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pluto-ecss",
+              "description": "Transpiler and runtime for PLUTO (ECSS-E-ST-70-32C), the standardised spacecraft operations procedure language. Compiles procedures to readable Python; includes a CLI and a browser playground.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 314785116,
+                "language": "Python",
+                "last_commit": "2026-06-10T07:51:17Z",
+                "owner": "stzifkas",
+                "repo": "pluto-ecss",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Mission Control"
         },
         {
-          "node_type": "item",
-          "title": "orbital-cotwo-web",
-          "description": "A data processing pipeline and web server that can dump HDF5 files from NASA's Orbital Carbon Observatory 2 mission into an SQL database.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-09-13T09:55:18Z",
-            "owner": "chronos-pramantha",
-            "repo": "orbital-cotwo-web",
-            "stars": 6
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "poliastro",
+              "description": "Poliastro is an open source pure Python package dedicated to problems arising in Astrodynamics and Orbital Mechanics. Focuses on interplanetary design.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 11178845,
+                "language": "Python",
+                "last_commit": "2023-10-14T15:30:47Z",
+                "owner": "poliastro",
+                "repo": "poliastro",
+                "stars": 1017
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SPICE",
+              "description": "Ephemerides library used by JPL for their missions. SpiceyPy is a Python wrapper.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15879082,
+                "language": "Python",
+                "last_commit": "2026-08-16T16:55:30Z",
+                "owner": "AndrewAnnex",
+                "repo": "SpiceyPy",
+                "stars": 483
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Nyx",
+              "description": "Nyx is a high fidelity astrodynamics toolkit for mission design and orbit determination in Rust and Python, used on several lunar missions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 115235540,
+                "language": "Rust",
+                "last_commit": "2026-08-13T11:04:02Z",
+                "owner": "nyx-space",
+                "repo": "nyx",
+                "stars": 479
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Open Space Toolkit",
+              "description": "Collection of versatile software libraries for space engineering applications (e.g., environment modeling, orbit and access computation).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 136834262,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-10T22:14:15Z",
+                "owner": "open-space-collective",
+                "repo": "open-space-toolkit",
+                "stars": 205
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SpOCK",
+              "description": "The Spacecraft Orbital Computations Kit is an open source tool for spacecraft mission analysis and simulation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 259109971,
+                "language": "C++",
+                "last_commit": "2026-04-17T08:49:07Z",
+                "owner": "deflorio",
+                "repo": "SpOCK",
+                "stars": 47
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Mission Design"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Gazebo",
+              "description": "Robotics simulator often used for planetary rovers",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 256913495,
+                "language": "C++",
+                "last_commit": "2024-12-03T13:17:30Z",
+                "owner": "gazebosim",
+                "repo": "gazebo-classic",
+                "stars": 1352
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NOS3",
+              "description": "NASA Operational Simulator for Small Satellites",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 143342045,
+                "language": "C",
+                "last_commit": "2026-08-12T15:29:45Z",
+                "owner": "nasa",
+                "repo": "nos3",
+                "stars": 609
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Basilisk",
+              "description": "C/C++ astrodynamics and attitude control simulation (includes Python scripting).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 577555866,
+                "language": "C",
+                "last_commit": "2026-08-19T07:34:57Z",
+                "owner": "AVSLab",
+                "repo": "basilisk",
+                "stars": 370
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Space Robotics Bench",
+              "description": "Simulation environments and tasks for developing and validating autonomous systems in orbital and planetary robotics scenarios.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 875957930,
+                "language": "Python",
+                "last_commit": "2025-12-01T11:40:50Z",
+                "owner": "AndrejOrsula",
+                "repo": "space_robotics_bench",
+                "stars": 181
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Trick",
+              "description": "End-to-end physics simulation package, useful for simulating missions (but requires orbital dynamics models). C, C++, with Python (SWIG) interface.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30925311,
+                "language": "C++",
+                "last_commit": "2026-08-13T21:57:40Z",
+                "owner": "nasa",
+                "repo": "trick",
+                "stars": 161
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NodalArc",
+              "description": "Satellite network emulator running real Linux routing stacks (FRR with IS-IS, OSPF, BGP, and MPLS) against moving LEO topology. Each satellite is a Linux network namespace; orbital mechanics drive interface state, link latency, and ground-station handoffs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1168689939,
+                "language": "Python",
+                "last_commit": "2026-08-14T17:35:58Z",
+                "owner": "dotchance",
+                "repo": "nodalarc",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Orbital Compute",
+              "description": "Satellite constellation compute simulator with orbital mechanics, power/thermal, eclipse-aware scheduling, ISL networking, radiation, data pipeline, cost modeling, and interactive web demos.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1192346357,
+                "language": "Python",
+                "last_commit": "2026-03-26T12:57:33Z",
+                "owner": "ShipItAndPray",
+                "repo": "orbital-compute",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "space-ml-sim",
+              "description": "Simulate AI inference on orbital satellite constellations under space radiation. PyTorch/ONNX fault injection, TMR & distributed fault tolerance, ground station/ISL network modeling, link budget, ECSS/MIL-STD report generation, 7 hardware chip profiles. Python.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1219042112,
+                "language": "Python",
+                "last_commit": "2026-05-18T20:06:19Z",
+                "owner": "orbital-sim-lab",
+                "repo": "space-ml-sim",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Simulation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "FossaSat-1",
+              "description": "Hardware designs and software for the FossaSat-1 Pocketqube satellite (GitHub)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 141841406,
+                "language": "HTML",
+                "last_commit": "2019-12-09T23:49:07Z",
+                "owner": "FOSSASystems",
+                "repo": "FOSSASAT-1",
+                "stars": 561
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ProjectInertia",
+              "description": "An open source hardware platform to achieve a FRAM-based radiation-tolerant microcontroller for space application. The firmware is being developed in Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 357131805,
+                "language": "Rust",
+                "last_commit": "2021-05-17T13:00:08Z",
+                "owner": "chrismolli",
+                "repo": "ProjectInertia",
+                "stars": 14
+              }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "MIT Tetra",
+                  "description": "and its fork, ESA Tetra - Open source star tracker which relies more extensively on hashes for faster lookups",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 62944848,
+                    "language": "C",
+                    "last_commit": "2020-05-15T08:00:54Z",
+                    "owner": "brownj4",
+                    "repo": "Tetra",
+                    "stars": 50
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Oresat star tracker",
+                  "description": "Open star tracker hardware with software, based on UPNanosatLab's openstartracker (which doesn't compile or have hardware)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 109927593,
+                    "language": "Makefile",
+                    "last_commit": "2026-08-06T23:28:18Z",
+                    "owner": "oresat",
+                    "repo": "oresat-star-tracker-hardware",
+                    "stars": 47
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Star Trackers"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Spacecraft Hardware"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "JPL F Prime",
+              "description": "F Prime (FÊ¹) is a component-driven framework that enables rapid development and deployment of spaceflight and other embedded software applications, originally developed at the Jet Propulsion Laboratory.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95114723,
+                "language": "C++",
+                "last_commit": "2026-08-19T01:23:02Z",
+                "owner": "nasa",
+                "repo": "fprime",
+                "stars": 11674
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Core Flight System",
+              "description": "NASA portable and extendable flight software framework with extensive flight heritage and a growing suite of applications and platform ports",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95805331,
+                "language": "C",
+                "last_commit": "2026-08-12T16:34:21Z",
+                "owner": "nasa",
+                "repo": "cFS",
+                "stars": 1458
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FossaSat-1",
+              "description": "Hardware designs and software for the FossaSat-1 Pocketqube satellite (GitHub)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 141841406,
+                "language": "HTML",
+                "last_commit": "2019-12-09T23:49:07Z",
+                "owner": "FOSSASystems",
+                "repo": "FOSSASAT-1",
+                "stars": 561
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SatCat5",
+              "description": "A mixed-media Ethernet switch for connecting smallsat payloads",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 227438136,
+                "language": "VHDL",
+                "last_commit": "2026-08-13T20:46:41Z",
+                "owner": "the-aerospace-corporation",
+                "repo": "satcat5",
+                "stars": 506
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OpenSatKit",
+              "description": "A complete Core Flight System training and application development environment that includes COSMOS and 42",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 98332453,
+                "language": "C",
+                "last_commit": "2024-03-25T19:50:49Z",
+                "owner": "OpenSatKit",
+                "repo": "OpenSatKit",
+                "stars": 297
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Space ROS",
+              "description": "ROS 2-based framework for space robotics software, testing, and interoperability.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 434762176,
+                "language": "Earthly",
+                "last_commit": "2026-08-14T17:45:38Z",
+                "owner": "space-ros",
+                "repo": "space-ros",
+                "stars": 239
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NanoSat MO Framework",
+              "description": "A software framework for nanosatellites based on the latest CCSDS standards. Developed by ESA and used in OPS-SAT mission (GitHub)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 126887538,
+                "language": "Java",
+                "last_commit": "2026-08-09T21:11:16Z",
+                "owner": "esa",
+                "repo": "nanosat-mo-framework",
+                "stars": 124
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cFS Basecamp",
+              "description": "Provides a lightweight environment to help you learn NASA’s cFS and create app-based solutions for your projects. The built-in hands-on tutorials shorten the path to productivity.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 529558128,
+                "language": "C",
+                "last_commit": "2026-07-29T11:58:02Z",
+                "owner": "cfs-tools",
+                "repo": "cfs-basecamp",
+                "stars": 60
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SYNOPSIS",
+              "description": "NASA-AMMOS framework for onboard data-product generation and downlink prioritization, including autonomous science products and cFS integration.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 585659566,
+                "language": "C",
+                "last_commit": "2024-09-03T18:31:47Z",
+                "owner": "NASA-AMMOS",
+                "repo": "synopsis",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Spacecraft Software"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "satellite.js",
+              "description": "A library to make satellite propagation via TLEs possible on the web. Provides the functions necessary for SGP4/SDP4 calculations, as callable javascript. Also provides functions for coordinate transforms.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10022627,
+                "language": "TypeScript",
+                "last_commit": "2026-07-23T08:58:17Z",
+                "owner": "shashwatak",
+                "repo": "satellite-js",
+                "stars": 1077
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "python-sgp4",
+              "description": "Python implementation of most recent version of the SGP4 satellite tracking algorithm",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5547488,
+                "language": "Python",
+                "last_commit": "2026-07-12T18:56:06Z",
+                "owner": "brandon-rhodes",
+                "repo": "python-sgp4",
+                "stars": 469
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Orbital Object Toolkit",
+              "description": "TypeScript port of python-sgp4 plus additional features for working with TLEs, satellites, and sensors.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 328847710,
+                "language": "TypeScript",
+                "last_commit": "2026-07-26T14:12:36Z",
+                "owner": "thkruz",
+                "repo": "ootk",
+                "stars": 81
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jspredict",
+              "description": "A Javascript port of the popular predict satellite tracking library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45433735,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T00:10:52Z",
+                "owner": "nsat",
+                "repo": "jspredict",
+                "stars": 53
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "perturb",
+              "description": "A modern C++ library for SGP4 orbit propagation of TLEs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 467648872,
+                "language": "C++",
+                "last_commit": "2025-02-19T11:46:24Z",
+                "owner": "gunvirranu",
+                "repo": "perturb",
+                "stars": 39
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Predict",
+              "description": "PHP implementation of the SGP4 and SDP4 models for prediction, based on Gpredict",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2202868,
+                "language": "PHP",
+                "last_commit": "2022-02-09T17:45:19Z",
+                "owner": "shupp",
+                "repo": "Predict",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Where the ISS at?",
+              "description": "Real time tracking of the International Space Station, with email push notifications for upcoming passes and a REST API for integrations. Based on Predict",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2202868,
+                "language": "PHP",
+                "last_commit": "2022-02-09T17:45:19Z",
+                "owner": "shupp",
+                "repo": "Predict",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Orb Calc",
+              "description": "Generate positions of objects from orbital parameters.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 155746551,
+                "language": "Go",
+                "last_commit": "2026-07-07T20:25:31Z",
+                "owner": "emilyselwood",
+                "repo": "orbcalc",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SatGuard",
+              "description": "Open-source satellite conjunction assessment pipeline with SGP4 propagation, collision probability (Foster/Chan/Alfano), CDM generation, and interactive 3D CesiumJS globe. Python, MIT licensed.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1183355084,
+                "language": "Python",
+                "last_commit": "2026-03-23T12:46:15Z",
+                "owner": "cesabici-bit",
+                "repo": "satguard",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SIMPLETON",
+              "description": "All-vs-all conjunction screener inspired by and validated against CelesTrak SOCRATES. Scans the entire catalog in under 30 seconds on consumer hardware.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1117837086,
+                "language": "Java",
+                "last_commit": "2026-08-17T01:34:08Z",
+                "owner": "Salad109",
+                "repo": "SIMPLETON",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "spacedata",
+              "description": "AI-friendly CLI aggregating public space data — orbital elements with derived perigee/apogee/period, satellite catalog, conjunction and launch data from CelesTrak, Space-Track and Launch Library 2 — as single JSON documents with built-in caching and upstream rate-limit protection.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1288146854,
+                "language": "TypeScript",
+                "last_commit": "2026-07-24T16:10:45Z",
+                "owner": "oscarjpicazo",
+                "repo": "spacedata",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tracking & Orbit Determination"
         }
       ],
-      "title": "Data Wrangling Tools"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Spacecraft"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Open MCT",
-          "description": "Ames's next-generation mission control framework for visualization of data on desktop and mobile devices.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-18T22:41:39Z",
-            "owner": "nasa",
-            "repo": "openmct",
-            "stars": 13084
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pluto-ecss",
-          "description": "Transpiler and runtime for PLUTO (ECSS-E-ST-70-32C), the standardised spacecraft operations procedure language. Compiles procedures to readable Python; includes a CLI and a browser playground.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-10T07:51:17Z",
-            "owner": "stzifkas",
-            "repo": "pluto-ecss",
-            "stars": 4
-          }
-        }
-      ],
-      "title": "Mission Control"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "poliastro",
-          "description": "Poliastro is an open source pure Python package dedicated to problems arising in Astrodynamics and Orbital Mechanics. Focuses on interplanetary design.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2023-10-14T15:30:47Z",
-            "owner": "poliastro",
-            "repo": "poliastro",
-            "stars": 1017
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SPICE",
-          "description": "Ephemerides library used by JPL for their missions. SpiceyPy is a Python wrapper.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-16T16:55:30Z",
-            "owner": "AndrewAnnex",
-            "repo": "SpiceyPy",
-            "stars": 483
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Nyx",
-          "description": "Nyx is a high fidelity astrodynamics toolkit for mission design and orbit determination in Rust and Python, used on several lunar missions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-13T11:04:02Z",
-            "owner": "nyx-space",
-            "repo": "nyx",
-            "stars": 479
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Open Space Toolkit",
-          "description": "Collection of versatile software libraries for space engineering applications (e.g., environment modeling, orbit and access computation).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2026-08-10T22:14:15Z",
-            "owner": "open-space-collective",
-            "repo": "open-space-toolkit",
-            "stars": 205
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SpOCK",
-          "description": "The Spacecraft Orbital Computations Kit is an open source tool for spacecraft mission analysis and simulation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-04-17T08:49:07Z",
-            "owner": "deflorio",
-            "repo": "SpOCK",
-            "stars": 47
-          }
-        }
-      ],
-      "title": "Mission Design"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Gazebo",
-          "description": "Robotics simulator often used for planetary rovers",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C++",
-            "last_commit": "2024-12-03T13:17:30Z",
-            "owner": "gazebosim",
-            "repo": "gazebo-classic",
-            "stars": 1352
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NOS3",
-          "description": "NASA Operational Simulator for Small Satellites",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-12T15:29:45Z",
-            "owner": "nasa",
-            "repo": "nos3",
-            "stars": 609
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Basilisk",
-          "description": "C/C++ astrodynamics and attitude control simulation (includes Python scripting).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-19T00:09:43Z",
-            "owner": "AVSLab",
-            "repo": "basilisk",
-            "stars": 370
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Space Robotics Bench",
-          "description": "Simulation environments and tasks for developing and validating autonomous systems in orbital and planetary robotics scenarios.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-12-01T11:40:50Z",
-            "owner": "AndrejOrsula",
-            "repo": "space_robotics_bench",
-            "stars": 181
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Trick",
-          "description": "End-to-end physics simulation package, useful for simulating missions (but requires orbital dynamics models). C, C++, with Python (SWIG) interface.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-13T21:57:40Z",
-            "owner": "nasa",
-            "repo": "trick",
-            "stars": 161
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NodalArc",
-          "description": "Satellite network emulator running real Linux routing stacks (FRR with IS-IS, OSPF, BGP, and MPLS) against moving LEO topology. Each satellite is a Linux network namespace; orbital mechanics drive interface state, link latency, and ground-station handoffs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-14T17:35:58Z",
-            "owner": "dotchance",
-            "repo": "nodalarc",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Orbital Compute",
-          "description": "Satellite constellation compute simulator with orbital mechanics, power/thermal, eclipse-aware scheduling, ISL networking, radiation, data pipeline, cost modeling, and interactive web demos.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-26T12:57:33Z",
-            "owner": "ShipItAndPray",
-            "repo": "orbital-compute",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "space-ml-sim",
-          "description": "Simulate AI inference on orbital satellite constellations under space radiation. PyTorch/ONNX fault injection, TMR & distributed fault tolerance, ground station/ISL network modeling, link budget, ECSS/MIL-STD report generation, 7 hardware chip profiles. Python.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-18T20:06:19Z",
-            "owner": "orbital-sim-lab",
-            "repo": "space-ml-sim",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Simulation"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "FossaSat-1",
-          "description": "Hardware designs and software for the FossaSat-1 Pocketqube satellite (GitHub)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2019-12-09T23:49:07Z",
-            "owner": "FOSSASystems",
-            "repo": "FOSSASAT-1",
-            "stars": 561
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ProjectInertia",
-          "description": "An open source hardware platform to achieve a FRAM-based radiation-tolerant microcontroller for space application. The firmware is being developed in Rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2021-05-17T13:00:08Z",
-            "owner": "chrismolli",
-            "repo": "ProjectInertia",
-            "stars": 14
-          }
-        }
-      ],
-      "title": "Spacecraft Hardware"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "MIT Tetra",
-          "description": "and its fork, ESA Tetra - Open source star tracker which relies more extensively on hashes for faster lookups",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2020-05-15T08:00:54Z",
-            "owner": "brownj4",
-            "repo": "Tetra",
-            "stars": 50
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Oresat star tracker",
-          "description": "Open star tracker hardware with software, based on UPNanosatLab's openstartracker (which doesn't compile or have hardware)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Makefile",
-            "last_commit": "2026-08-06T23:28:18Z",
-            "owner": "oresat",
-            "repo": "oresat-star-tracker-hardware",
-            "stars": 47
-          }
-        }
-      ],
-      "title": "Star Trackers"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "JPL F Prime",
-          "description": "F Prime (FÊ¹) is a component-driven framework that enables rapid development and deployment of spaceflight and other embedded software applications, originally developed at the Jet Propulsion Laboratory.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-19T01:23:02Z",
-            "owner": "nasa",
-            "repo": "fprime",
-            "stars": 11674
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Core Flight System",
-          "description": "NASA portable and extendable flight software framework with extensive flight heritage and a growing suite of applications and platform ports",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-12T16:34:21Z",
-            "owner": "nasa",
-            "repo": "cFS",
-            "stars": 1458
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FossaSat-1",
-          "description": "Hardware designs and software for the FossaSat-1 Pocketqube satellite (GitHub)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2019-12-09T23:49:07Z",
-            "owner": "FOSSASystems",
-            "repo": "FOSSASAT-1",
-            "stars": 561
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SatCat5",
-          "description": "A mixed-media Ethernet switch for connecting smallsat payloads",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "VHDL",
-            "last_commit": "2026-08-13T20:46:41Z",
-            "owner": "the-aerospace-corporation",
-            "repo": "satcat5",
-            "stars": 506
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OpenSatKit",
-          "description": "A complete Core Flight System training and application development environment that includes COSMOS and 42",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-03-25T19:50:49Z",
-            "owner": "OpenSatKit",
-            "repo": "OpenSatKit",
-            "stars": 297
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Space ROS",
-          "description": "ROS 2-based framework for space robotics software, testing, and interoperability.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Earthly",
-            "last_commit": "2026-08-14T17:45:38Z",
-            "owner": "space-ros",
-            "repo": "space-ros",
-            "stars": 239
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NanoSat MO Framework",
-          "description": "A software framework for nanosatellites based on the latest CCSDS standards. Developed by ESA and used in OPS-SAT mission (GitHub)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-09T21:11:16Z",
-            "owner": "esa",
-            "repo": "nanosat-mo-framework",
-            "stars": 124
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cFS Basecamp",
-          "description": "Provides a lightweight environment to help you learn NASA’s cFS and create app-based solutions for your projects. The built-in hands-on tutorials shorten the path to productivity.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-07-29T11:58:02Z",
-            "owner": "cfs-tools",
-            "repo": "cfs-basecamp",
-            "stars": 60
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SYNOPSIS",
-          "description": "NASA-AMMOS framework for onboard data-product generation and downlink prioritization, including autonomous science products and cFS integration.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-09-03T18:31:47Z",
-            "owner": "NASA-AMMOS",
-            "repo": "synopsis",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "Spacecraft Software"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "satellite.js",
-          "description": "A library to make satellite propagation via TLEs possible on the web. Provides the functions necessary for SGP4/SDP4 calculations, as callable javascript. Also provides functions for coordinate transforms.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-23T08:58:17Z",
-            "owner": "shashwatak",
-            "repo": "satellite-js",
-            "stars": 1077
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "python-sgp4",
-          "description": "Python implementation of most recent version of the SGP4 satellite tracking algorithm",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-12T18:56:06Z",
-            "owner": "brandon-rhodes",
-            "repo": "python-sgp4",
-            "stars": 469
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Orbital Object Toolkit",
-          "description": "TypeScript port of python-sgp4 plus additional features for working with TLEs, satellites, and sensors.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-26T14:12:36Z",
-            "owner": "thkruz",
-            "repo": "ootk",
-            "stars": 81
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "jspredict",
-          "description": "A Javascript port of the popular predict satellite tracking library.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-19T00:10:52Z",
-            "owner": "nsat",
-            "repo": "jspredict",
-            "stars": 53
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "perturb",
-          "description": "A modern C++ library for SGP4 orbit propagation of TLEs",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2025-02-19T11:46:24Z",
-            "owner": "gunvirranu",
-            "repo": "perturb",
-            "stars": 39
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Predict",
-          "description": "PHP implementation of the SGP4 and SDP4 models for prediction, based on Gpredict",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2022-02-09T17:45:19Z",
-            "owner": "shupp",
-            "repo": "Predict",
-            "stars": 35
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Where the ISS at?",
-          "description": "Real time tracking of the International Space Station, with email push notifications for upcoming passes and a REST API for integrations. Based on Predict",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2022-02-09T17:45:19Z",
-            "owner": "shupp",
-            "repo": "Predict",
-            "stars": 35
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Orb Calc",
-          "description": "Generate positions of objects from orbital parameters.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-07T20:25:31Z",
-            "owner": "emilyselwood",
-            "repo": "orbcalc",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SatGuard",
-          "description": "Open-source satellite conjunction assessment pipeline with SGP4 propagation, collision probability (Foster/Chan/Alfano), CDM generation, and interactive 3D CesiumJS globe. Python, MIT licensed.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-23T12:46:15Z",
-            "owner": "cesabici-bit",
-            "repo": "satguard",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SIMPLETON",
-          "description": "All-vs-all conjunction screener inspired by and validated against CelesTrak SOCRATES. Scans the entire catalog in under 30 seconds on consumer hardware.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-17T01:34:08Z",
-            "owner": "Salad109",
-            "repo": "SIMPLETON",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "spacedata",
-          "description": "AI-friendly CLI aggregating public space data — orbital elements with derived perigee/apogee/period, satellite catalog, conjunction and launch data from CelesTrak, Space-Track and Launch Library 2 — as single JSON documents with built-in caching and upstream rate-limit protection.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-24T16:10:45Z",
-            "owner": "oscarjpicazo",
-            "repo": "spacedata",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Tracking & Orbit Determination"
-    },
-    {
-      "description": "To the extent possible under law, The Orbital Index has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T06:35:33.155Z",
+    "last_updated": "2026-08-19T12:50:43.004Z",
     "original_repository": "orbitalindex/awesome-space",
+    "original_repository_id": 192268784,
     "original_repository_sha": "d394c71726f3ff2eb93e4e551f581b0d57cbc323",
     "enhanced_repository": "enhansome/enhansome-space",
     "enhanced_repository_description": null,
