@@ -16,10 +16,10 @@
                     "archived": false,
                     "id": 1267008278,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-21T05:20:28Z",
+                    "last_commit": "2026-08-21T19:10:30Z",
                     "owner": "hyqzz",
                     "repo": "Solar-Wanderer",
-                    "stars": 712
+                    "stars": 716
                   }
                 },
                 {
@@ -31,7 +31,7 @@
                     "archived": false,
                     "id": 433689468,
                     "language": "Rust",
-                    "last_commit": "2026-08-19T16:39:39Z",
+                    "last_commit": "2026-08-21T15:22:52Z",
                     "owner": "nyx-space",
                     "repo": "anise",
                     "stars": 266
@@ -220,7 +220,7 @@
                 "last_commit": "2026-08-20T22:12:26Z",
                 "owner": "nasa",
                 "repo": "openmct",
-                "stars": 13086
+                "stars": 13087
               }
             },
             {
@@ -351,7 +351,7 @@
                 "archived": false,
                 "id": 143342045,
                 "language": "C",
-                "last_commit": "2026-08-20T18:01:21Z",
+                "last_commit": "2026-08-21T14:03:00Z",
                 "owner": "nasa",
                 "repo": "nos3",
                 "stars": 612
@@ -366,10 +366,10 @@
                 "archived": false,
                 "id": 577555866,
                 "language": "C",
-                "last_commit": "2026-08-20T06:56:40Z",
+                "last_commit": "2026-08-21T07:10:45Z",
                 "owner": "AVSLab",
                 "repo": "basilisk",
-                "stars": 367
+                "stars": 369
               }
             },
             {
@@ -396,7 +396,7 @@
                 "archived": false,
                 "id": 30925311,
                 "language": "C++",
-                "last_commit": "2026-08-19T22:52:09Z",
+                "last_commit": "2026-08-21T20:47:31Z",
                 "owner": "nasa",
                 "repo": "trick",
                 "stars": 158
@@ -537,10 +537,10 @@
                 "archived": false,
                 "id": 95114723,
                 "language": "C++",
-                "last_commit": "2026-08-20T22:28:27Z",
+                "last_commit": "2026-08-21T22:12:20Z",
                 "owner": "nasa",
                 "repo": "fprime",
-                "stars": 11679
+                "stars": 11682
               }
             },
             {
@@ -552,10 +552,10 @@
                 "archived": false,
                 "id": 95805331,
                 "language": "C",
-                "last_commit": "2026-08-21T02:37:05Z",
+                "last_commit": "2026-08-22T02:29:14Z",
                 "owner": "nasa",
                 "repo": "cFS",
-                "stars": 1461
+                "stars": 1462
               }
             },
             {
@@ -585,7 +585,7 @@
                 "last_commit": "2026-08-13T20:46:41Z",
                 "owner": "the-aerospace-corporation",
                 "repo": "satcat5",
-                "stars": 507
+                "stars": 508
               }
             },
             {
@@ -615,7 +615,7 @@
                 "last_commit": "2026-08-19T21:53:04Z",
                 "owner": "space-ros",
                 "repo": "space-ros",
-                "stars": 239
+                "stars": 240
               }
             },
             {
@@ -724,7 +724,7 @@
                 "archived": false,
                 "id": 45433735,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T16:22:55Z",
+                "last_commit": "2026-08-21T17:22:30Z",
                 "owner": "nsat",
                 "repo": "jspredict",
                 "stars": 53
@@ -845,7 +845,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T06:37:15.305Z",
+    "last_updated": "2026-08-22T06:31:04.459Z",
     "original_repository": "orbitalindex/awesome-space",
     "original_repository_id": 192268784,
     "original_repository_sha": "b5091e6a2e40c5843ffc3612e7d992cb5e889b94",
