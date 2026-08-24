@@ -6,6 +6,50 @@
         {
           "children": [
             {
+              "node_type": "item",
+              "title": "SpaceXDB-Api",
+              "description": "SpaceXDB is a website containing SpaceX launch information and telemetry.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 262001794,
+                "language": "JavaScript",
+                "last_commit": "2021-06-12T10:30:29Z",
+                "owner": "R4yGM",
+                "repo": "SpaceXTelemetry-Api",
+                "stars": 36
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Astronomy APIs"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "VIRGO",
+                  "description": "An open-source Spectrometer for Radio Astronomy",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 225741543,
+                    "language": "Python",
+                    "last_commit": "2023-07-23T20:21:30Z",
+                    "owner": "0xCoto",
+                    "repo": "Virgo",
+                    "stars": 199
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Radio Astronomy"
+            },
+            {
               "children": [
                 {
                   "node_type": "item",
@@ -76,7 +120,7 @@
                 "last_commit": "2026-08-18T13:18:47Z",
                 "owner": "hannorein",
                 "repo": "rebound",
-                "stars": 1120
+                "stars": 1121
               }
             },
             {
@@ -199,6 +243,50 @@
           "description": null,
           "node_type": "group",
           "title": "Data Wrangling Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MetaEarth",
+              "description": "Download any remote sensing data from any provider using a single config.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 502204828,
+                "language": "Python",
+                "last_commit": "2023-01-10T19:59:28Z",
+                "owner": "bair-climate-initiative",
+                "repo": "multiearth",
+                "stars": 157
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Earth"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Launch Dashboard API",
+              "description": "Open Source REST API for rocket launch telemetry",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 168721365,
+                "language": "JavaScript",
+                "last_commit": "2024-06-19T10:34:34Z",
+                "owner": "shahar603",
+                "repo": "Launch-Dashboard-API",
+                "stars": 119
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Launches"
         }
       ],
       "title": "Data"
@@ -210,6 +298,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Hack-A-Sat Resource Library",
+              "description": "has links, videos, and other resources about aerospace security.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 267365089,
+                "language": null,
+                "last_commit": "2024-05-05T02:37:42Z",
+                "owner": "deptofdefense",
+                "repo": "hack-a-sat-library",
+                "stars": 977
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "General Software"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GRID",
+              "description": "Commercial network of satellite groundstations with simple to use Python SDK.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 668344010,
+                "language": "Python",
+                "last_commit": "2026-07-20T05:57:32Z",
+                "owner": "5OKB",
+                "repo": "grid-python-sdk",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Ground Stations"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Open MCT",
               "description": "Ames's next-generation mission control framework for visualization of data on desktop and mobile devices.",
               "children": [],
@@ -217,7 +349,7 @@
                 "archived": false,
                 "id": 36753839,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T00:27:30Z",
+                "last_commit": "2026-08-24T11:54:33Z",
                 "owner": "nasa",
                 "repo": "openmct",
                 "stars": 13091
@@ -366,7 +498,7 @@
                 "archived": false,
                 "id": 577555866,
                 "language": "C",
-                "last_commit": "2026-08-23T06:35:02Z",
+                "last_commit": "2026-08-24T06:48:10Z",
                 "owner": "AVSLab",
                 "repo": "basilisk",
                 "stars": 370
@@ -488,6 +620,50 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "libswiftnav",
+                  "description": "and libsbp (Swift binary protocol for communicating with receiver hardware)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 315447703,
+                    "language": "Pawn",
+                    "last_commit": "2025-11-24T22:15:46Z",
+                    "owner": "swift-nav",
+                    "repo": "libswiftnav",
+                    "stars": 23
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "GNSS Receivers"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "OpenLST transceiver hardware",
+                  "description": "and firmware - OpenLST is an open source, proven radio design for communicating with remote instruments, vehicles, and stations using low-cost commercial components. Based on Planet Labs' telemetry/command radio.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 144508223,
+                    "language": null,
+                    "last_commit": "2021-11-08T23:18:44Z",
+                    "owner": "OpenLST",
+                    "repo": "openlst-hw",
+                    "stars": 37
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Radios"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "MIT Tetra",
                   "description": "and its fork, ESA Tetra - Open source star tracker which relies more extensively on hashes for faster lookups",
                   "children": [],
@@ -540,7 +716,7 @@
                 "last_commit": "2026-08-23T22:11:47Z",
                 "owner": "nasa",
                 "repo": "fprime",
-                "stars": 11686
+                "stars": 11689
               }
             },
             {
@@ -552,7 +728,7 @@
                 "archived": false,
                 "id": 95805331,
                 "language": "C",
-                "last_commit": "2026-08-24T02:38:01Z",
+                "last_commit": "2026-08-24T13:11:03Z",
                 "owner": "nasa",
                 "repo": "cFS",
                 "stars": 1462
@@ -662,6 +838,28 @@
                 "repo": "synopsis",
                 "stars": 3
               }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Apollo 11 Guidance Code",
+                  "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 18408635,
+                    "language": "Assembly",
+                    "last_commit": "2026-07-15T02:29:53Z",
+                    "owner": "chrislgarry",
+                    "repo": "Apollo-11",
+                    "stars": 72164
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Legacy"
             }
           ],
           "description": null,
@@ -845,7 +1043,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T06:46:20.593Z",
+    "last_updated": "2026-08-24T14:06:01.560Z",
     "original_repository": "orbitalindex/awesome-space",
     "original_repository_id": 192268784,
     "original_repository_sha": "b5091e6a2e40c5843ffc3612e7d992cb5e889b94",
