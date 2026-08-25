@@ -63,7 +63,7 @@
                     "last_commit": "2026-08-23T16:05:32Z",
                     "owner": "hyqzz",
                     "repo": "Solar-Wanderer",
-                    "stars": 716
+                    "stars": 717
                   }
                 },
                 {
@@ -75,10 +75,10 @@
                     "archived": false,
                     "id": 433689468,
                     "language": "Rust",
-                    "last_commit": "2026-08-21T15:22:52Z",
+                    "last_commit": "2026-08-25T05:53:41Z",
                     "owner": "nyx-space",
                     "repo": "anise",
-                    "stars": 266
+                    "stars": 267
                   }
                 },
                 {
@@ -349,10 +349,10 @@
                 "archived": false,
                 "id": 36753839,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T11:54:33Z",
+                "last_commit": "2026-08-24T22:38:31Z",
                 "owner": "nasa",
                 "repo": "openmct",
-                "stars": 13091
+                "stars": 13092
               }
             },
             {
@@ -419,7 +419,7 @@
                 "last_commit": "2026-08-13T11:04:02Z",
                 "owner": "nyx-space",
                 "repo": "nyx",
-                "stars": 479
+                "stars": 480
               }
             },
             {
@@ -501,7 +501,7 @@
                 "last_commit": "2026-08-24T06:48:10Z",
                 "owner": "AVSLab",
                 "repo": "basilisk",
-                "stars": 370
+                "stars": 371
               }
             },
             {
@@ -713,10 +713,10 @@
                 "archived": false,
                 "id": 95114723,
                 "language": "C++",
-                "last_commit": "2026-08-23T22:11:47Z",
+                "last_commit": "2026-08-24T22:12:45Z",
                 "owner": "nasa",
                 "repo": "fprime",
-                "stars": 11689
+                "stars": 11691
               }
             },
             {
@@ -728,10 +728,10 @@
                 "archived": false,
                 "id": 95805331,
                 "language": "C",
-                "last_commit": "2026-08-24T13:11:03Z",
+                "last_commit": "2026-08-25T02:31:40Z",
                 "owner": "nasa",
                 "repo": "cFS",
-                "stars": 1462
+                "stars": 1465
               }
             },
             {
@@ -853,7 +853,7 @@
                     "last_commit": "2026-07-15T02:29:53Z",
                     "owner": "chrislgarry",
                     "repo": "Apollo-11",
-                    "stars": 72164
+                    "stars": 72169
                   }
                 }
               ],
@@ -1043,7 +1043,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:06:01.560Z",
+    "last_updated": "2026-08-25T05:58:25.089Z",
     "original_repository": "orbitalindex/awesome-space",
     "original_repository_id": 192268784,
     "original_repository_sha": "b5091e6a2e40c5843ffc3612e7d992cb5e889b94",
