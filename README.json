@@ -63,7 +63,7 @@
                     "last_commit": "2026-08-23T16:05:32Z",
                     "owner": "hyqzz",
                     "repo": "Solar-Wanderer",
-                    "stars": 719
+                    "stars": 720
                   }
                 },
                 {
@@ -75,7 +75,7 @@
                     "archived": false,
                     "id": 433689468,
                     "language": "Rust",
-                    "last_commit": "2026-08-26T16:53:35Z",
+                    "last_commit": "2026-08-27T13:01:54Z",
                     "owner": "nyx-space",
                     "repo": "anise",
                     "stars": 269
@@ -498,10 +498,10 @@
                 "archived": false,
                 "id": 577555866,
                 "language": "C",
-                "last_commit": "2026-08-27T03:43:06Z",
+                "last_commit": "2026-08-27T16:44:39Z",
                 "owner": "AVSLab",
                 "repo": "basilisk",
-                "stars": 372
+                "stars": 373
               }
             },
             {
@@ -543,7 +543,7 @@
                 "archived": false,
                 "id": 1168689939,
                 "language": "Python",
-                "last_commit": "2026-08-14T17:35:58Z",
+                "last_commit": "2026-08-27T17:13:08Z",
                 "owner": "dotchance",
                 "repo": "nodalarc",
                 "stars": 6
@@ -731,7 +731,7 @@
                 "last_commit": "2026-08-26T16:41:44Z",
                 "owner": "nasa",
                 "repo": "cFS",
-                "stars": 1472
+                "stars": 1473
               }
             },
             {
@@ -806,7 +806,7 @@
                 "last_commit": "2026-08-26T21:35:40Z",
                 "owner": "esa",
                 "repo": "nanosat-mo-framework",
-                "stars": 123
+                "stars": 124
               }
             },
             {
@@ -853,7 +853,7 @@
                     "last_commit": "2026-07-15T02:29:53Z",
                     "owner": "chrislgarry",
                     "repo": "Apollo-11",
-                    "stars": 72203
+                    "stars": 72204
                   }
                 }
               ],
@@ -880,7 +880,7 @@
                 "last_commit": "2026-08-20T16:45:38Z",
                 "owner": "shashwatak",
                 "repo": "satellite-js",
-                "stars": 1082
+                "stars": 1081
               }
             },
             {
@@ -895,7 +895,7 @@
                 "last_commit": "2026-07-12T18:56:06Z",
                 "owner": "brandon-rhodes",
                 "repo": "python-sgp4",
-                "stars": 469
+                "stars": 470
               }
             },
             {
@@ -1043,7 +1043,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:06:18.450Z",
+    "last_updated": "2026-08-27T17:14:32.178Z",
     "original_repository_info": {
       "archived": false,
       "id": 192268784,
