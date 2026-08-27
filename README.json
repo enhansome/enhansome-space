@@ -17,7 +17,7 @@
                 "last_commit": "2021-06-12T10:30:29Z",
                 "owner": "R4yGM",
                 "repo": "SpaceXTelemetry-Api",
-                "stars": 36
+                "stars": 37
               }
             }
           ],
@@ -75,10 +75,10 @@
                     "archived": false,
                     "id": 433689468,
                     "language": "Rust",
-                    "last_commit": "2026-08-25T15:41:12Z",
+                    "last_commit": "2026-08-26T16:53:35Z",
                     "owner": "nyx-space",
                     "repo": "anise",
-                    "stars": 268
+                    "stars": 269
                   }
                 },
                 {
@@ -117,10 +117,10 @@
                 "archived": false,
                 "id": 1987576,
                 "language": "C",
-                "last_commit": "2026-08-25T14:58:41Z",
+                "last_commit": "2026-08-26T11:17:35Z",
                 "owner": "hannorein",
                 "repo": "rebound",
-                "stars": 1121
+                "stars": 1122
               }
             },
             {
@@ -349,10 +349,10 @@
                 "archived": false,
                 "id": 36753839,
                 "language": "JavaScript",
-                "last_commit": "2026-08-26T00:02:53Z",
+                "last_commit": "2026-08-26T17:51:25Z",
                 "owner": "nasa",
                 "repo": "openmct",
-                "stars": 13093
+                "stars": 13095
               }
             },
             {
@@ -404,7 +404,7 @@
                 "last_commit": "2026-08-23T17:16:51Z",
                 "owner": "AndrewAnnex",
                 "repo": "SpiceyPy",
-                "stars": 484
+                "stars": 485
               }
             },
             {
@@ -416,10 +416,10 @@
                 "archived": false,
                 "id": 115235540,
                 "language": "Rust",
-                "last_commit": "2026-08-13T11:04:02Z",
+                "last_commit": "2026-08-27T07:09:00Z",
                 "owner": "nyx-space",
                 "repo": "nyx",
-                "stars": 481
+                "stars": 482
               }
             },
             {
@@ -471,7 +471,7 @@
                 "last_commit": "2024-12-03T13:17:30Z",
                 "owner": "gazebosim",
                 "repo": "gazebo-classic",
-                "stars": 1352
+                "stars": 1351
               }
             },
             {
@@ -486,7 +486,7 @@
                 "last_commit": "2026-08-21T14:03:00Z",
                 "owner": "nasa",
                 "repo": "nos3",
-                "stars": 614
+                "stars": 617
               }
             },
             {
@@ -498,7 +498,7 @@
                 "archived": false,
                 "id": 577555866,
                 "language": "C",
-                "last_commit": "2026-08-25T22:43:27Z",
+                "last_commit": "2026-08-27T03:43:06Z",
                 "owner": "AVSLab",
                 "repo": "basilisk",
                 "stars": 372
@@ -516,7 +516,7 @@
                 "last_commit": "2025-12-01T11:40:50Z",
                 "owner": "AndrejOrsula",
                 "repo": "space_robotics_bench",
-                "stars": 182
+                "stars": 183
               }
             },
             {
@@ -528,7 +528,7 @@
                 "archived": false,
                 "id": 30925311,
                 "language": "C++",
-                "last_commit": "2026-08-25T21:23:29Z",
+                "last_commit": "2026-08-26T20:49:33Z",
                 "owner": "nasa",
                 "repo": "trick",
                 "stars": 158
@@ -689,7 +689,7 @@
                     "last_commit": "2026-08-06T23:28:18Z",
                     "owner": "oresat",
                     "repo": "oresat-star-tracker-hardware",
-                    "stars": 47
+                    "stars": 48
                   }
                 }
               ],
@@ -713,10 +713,10 @@
                 "archived": false,
                 "id": 95114723,
                 "language": "C++",
-                "last_commit": "2026-08-25T22:14:45Z",
+                "last_commit": "2026-08-26T23:09:19Z",
                 "owner": "nasa",
                 "repo": "fprime",
-                "stars": 11692
+                "stars": 11700
               }
             },
             {
@@ -728,10 +728,10 @@
                 "archived": false,
                 "id": 95805331,
                 "language": "C",
-                "last_commit": "2026-08-26T02:39:29Z",
+                "last_commit": "2026-08-26T16:41:44Z",
                 "owner": "nasa",
                 "repo": "cFS",
-                "stars": 1469
+                "stars": 1472
               }
             },
             {
@@ -776,7 +776,7 @@
                 "last_commit": "2024-03-25T19:50:49Z",
                 "owner": "OpenSatKit",
                 "repo": "OpenSatKit",
-                "stars": 298
+                "stars": 299
               }
             },
             {
@@ -803,7 +803,7 @@
                 "archived": false,
                 "id": 126887538,
                 "language": "Java",
-                "last_commit": "2026-08-23T18:45:50Z",
+                "last_commit": "2026-08-26T21:35:40Z",
                 "owner": "esa",
                 "repo": "nanosat-mo-framework",
                 "stars": 123
@@ -853,7 +853,7 @@
                     "last_commit": "2026-07-15T02:29:53Z",
                     "owner": "chrislgarry",
                     "repo": "Apollo-11",
-                    "stars": 72179
+                    "stars": 72203
                   }
                 }
               ],
@@ -910,7 +910,7 @@
                 "last_commit": "2026-07-26T14:12:36Z",
                 "owner": "thkruz",
                 "repo": "ootk",
-                "stars": 82
+                "stars": 84
               }
             },
             {
@@ -1012,7 +1012,7 @@
                 "archived": false,
                 "id": 1117837086,
                 "language": "Java",
-                "last_commit": "2026-08-24T01:34:24Z",
+                "last_commit": "2026-08-27T01:33:42Z",
                 "owner": "Salad109",
                 "repo": "SIMPLETON",
                 "stars": 2
@@ -1043,9 +1043,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T06:39:19.798Z",
-    "original_repository": "orbitalindex/awesome-space",
-    "original_repository_id": 192268784,
+    "last_updated": "2026-08-27T12:06:18.450Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 192268784,
+      "language": "Ruby",
+      "last_commit": "2026-08-20T18:18:06Z",
+      "owner": "orbitalindex",
+      "repo": "awesome-space",
+      "stars": 2213
+    },
     "original_repository_sha": "b5091e6a2e40c5843ffc3612e7d992cb5e889b94",
     "enhanced_repository": "enhansome/enhansome-space",
     "enhanced_repository_description": null,
