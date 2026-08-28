@@ -18,7 +18,8 @@
                 "owner": "R4yGM",
                 "repo": "SpaceXTelemetry-Api",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T18:07:09.994Z"
             }
           ],
           "description": null,
@@ -42,7 +43,8 @@
                     "owner": "0xCoto",
                     "repo": "Virgo",
                     "stars": 199
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:07:09.994Z"
                 }
               ],
               "description": null,
@@ -63,8 +65,9 @@
                     "last_commit": "2026-08-23T16:05:32Z",
                     "owner": "hyqzz",
                     "repo": "Solar-Wanderer",
-                    "stars": 720
-                  }
+                    "stars": 723
+                  },
+                  "first_seen": "2026-08-28T18:07:09.994Z"
                 },
                 {
                   "node_type": "item",
@@ -79,7 +82,8 @@
                     "owner": "nyx-space",
                     "repo": "anise",
                     "stars": 269
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:07:09.994Z"
                 },
                 {
                   "node_type": "item",
@@ -94,7 +98,8 @@
                     "owner": "TheHappyKoala",
                     "repo": "Harmony-of-the-Spheres",
                     "stars": 136
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:07:09.994Z"
                 }
               ],
               "description": null,
@@ -121,7 +126,8 @@
                 "owner": "hannorein",
                 "repo": "rebound",
                 "stars": 1122
-              }
+              },
+              "first_seen": "2026-08-28T18:07:09.994Z"
             },
             {
               "node_type": "item",
@@ -136,7 +142,8 @@
                 "owner": "typpo",
                 "repo": "astrokit",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T18:07:09.994Z"
             }
           ],
           "description": null,
@@ -164,7 +171,8 @@
                 "owner": "LunCoSim",
                 "repo": "lunco-space-jargon",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T18:07:09.994Z"
             },
             {
               "node_type": "item",
@@ -179,7 +187,8 @@
                 "owner": "chronos-pramantha",
                 "repo": "RDFvocab",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T18:07:09.994Z"
             },
             {
               "node_type": "item",
@@ -194,7 +203,8 @@
                 "owner": "sylvesterkaczmarek",
                 "repo": "awesome-space-autonomy",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T18:07:09.994Z"
             }
           ],
           "description": null,
@@ -222,7 +232,8 @@
                 "owner": "ben-nour",
                 "repo": "pyspaceweather",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T18:07:09.994Z"
             },
             {
               "node_type": "item",
@@ -237,7 +248,8 @@
                 "owner": "chronos-pramantha",
                 "repo": "orbital-cotwo-web",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T18:07:09.994Z"
             }
           ],
           "description": null,
@@ -259,7 +271,8 @@
                 "owner": "bair-climate-initiative",
                 "repo": "multiearth",
                 "stars": 157
-              }
+              },
+              "first_seen": "2026-08-28T18:07:09.994Z"
             }
           ],
           "description": null,
@@ -281,7 +294,8 @@
                 "owner": "shahar603",
                 "repo": "Launch-Dashboard-API",
                 "stars": 119
-              }
+              },
+              "first_seen": "2026-08-28T18:07:09.994Z"
             }
           ],
           "description": null,
@@ -309,7 +323,8 @@
                 "owner": "deptofdefense",
                 "repo": "hack-a-sat-library",
                 "stars": 977
-              }
+              },
+              "first_seen": "2026-08-28T18:07:09.994Z"
             }
           ],
           "description": null,
@@ -331,7 +346,8 @@
                 "owner": "5OKB",
                 "repo": "grid-python-sdk",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T18:07:09.994Z"
             }
           ],
           "description": null,
@@ -352,8 +368,9 @@
                 "last_commit": "2026-08-26T17:51:25Z",
                 "owner": "nasa",
                 "repo": "openmct",
-                "stars": 13095
-              }
+                "stars": 13097
+              },
+              "first_seen": "2026-08-28T18:07:09.994Z"
             },
             {
               "node_type": "item",
@@ -368,7 +385,8 @@
                 "owner": "stzifkas",
                 "repo": "pluto-ecss",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T18:07:09.994Z"
             }
           ],
           "description": null,
@@ -390,7 +408,8 @@
                 "owner": "poliastro",
                 "repo": "poliastro",
                 "stars": 1014
-              }
+              },
+              "first_seen": "2026-08-28T18:07:09.994Z"
             },
             {
               "node_type": "item",
@@ -405,7 +424,8 @@
                 "owner": "AndrewAnnex",
                 "repo": "SpiceyPy",
                 "stars": 485
-              }
+              },
+              "first_seen": "2026-08-28T18:07:09.994Z"
             },
             {
               "node_type": "item",
@@ -420,7 +440,8 @@
                 "owner": "nyx-space",
                 "repo": "nyx",
                 "stars": 482
-              }
+              },
+              "first_seen": "2026-08-28T18:07:09.994Z"
             },
             {
               "node_type": "item",
@@ -435,7 +456,8 @@
                 "owner": "open-space-collective",
                 "repo": "open-space-toolkit",
                 "stars": 205
-              }
+              },
+              "first_seen": "2026-08-28T18:07:09.994Z"
             },
             {
               "node_type": "item",
@@ -450,7 +472,8 @@
                 "owner": "deflorio",
                 "repo": "SpOCK",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T18:07:09.994Z"
             }
           ],
           "description": null,
@@ -471,8 +494,9 @@
                 "last_commit": "2024-12-03T13:17:30Z",
                 "owner": "gazebosim",
                 "repo": "gazebo-classic",
-                "stars": 1351
-              }
+                "stars": 1350
+              },
+              "first_seen": "2026-08-28T18:07:09.994Z"
             },
             {
               "node_type": "item",
@@ -487,7 +511,8 @@
                 "owner": "nasa",
                 "repo": "nos3",
                 "stars": 617
-              }
+              },
+              "first_seen": "2026-08-28T18:07:09.994Z"
             },
             {
               "node_type": "item",
@@ -498,11 +523,12 @@
                 "archived": false,
                 "id": 577555866,
                 "language": "C",
-                "last_commit": "2026-08-27T16:44:39Z",
+                "last_commit": "2026-08-28T17:34:30Z",
                 "owner": "AVSLab",
                 "repo": "basilisk",
                 "stars": 373
-              }
+              },
+              "first_seen": "2026-08-28T18:07:09.994Z"
             },
             {
               "node_type": "item",
@@ -516,8 +542,9 @@
                 "last_commit": "2025-12-01T11:40:50Z",
                 "owner": "AndrejOrsula",
                 "repo": "space_robotics_bench",
-                "stars": 183
-              }
+                "stars": 184
+              },
+              "first_seen": "2026-08-28T18:07:09.994Z"
             },
             {
               "node_type": "item",
@@ -532,7 +559,8 @@
                 "owner": "nasa",
                 "repo": "trick",
                 "stars": 158
-              }
+              },
+              "first_seen": "2026-08-28T18:07:09.994Z"
             },
             {
               "node_type": "item",
@@ -547,7 +575,8 @@
                 "owner": "dotchance",
                 "repo": "nodalarc",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T18:07:09.994Z"
             },
             {
               "node_type": "item",
@@ -562,7 +591,8 @@
                 "owner": "ShipItAndPray",
                 "repo": "orbital-compute",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T18:07:09.994Z"
             },
             {
               "node_type": "item",
@@ -577,7 +607,8 @@
                 "owner": "orbital-sim-lab",
                 "repo": "space-ml-sim",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T18:07:09.994Z"
             }
           ],
           "description": null,
@@ -599,7 +630,8 @@
                 "owner": "FOSSASystems",
                 "repo": "FOSSASAT-1",
                 "stars": 561
-              }
+              },
+              "first_seen": "2026-08-28T18:07:09.994Z"
             },
             {
               "node_type": "item",
@@ -614,7 +646,8 @@
                 "owner": "chrismolli",
                 "repo": "ProjectInertia",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T18:07:09.994Z"
             },
             {
               "children": [
@@ -631,7 +664,8 @@
                     "owner": "swift-nav",
                     "repo": "libswiftnav",
                     "stars": 23
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:07:09.994Z"
                 }
               ],
               "description": null,
@@ -653,7 +687,8 @@
                     "owner": "OpenLST",
                     "repo": "openlst-hw",
                     "stars": 37
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:07:09.994Z"
                 }
               ],
               "description": null,
@@ -675,7 +710,8 @@
                     "owner": "brownj4",
                     "repo": "Tetra",
                     "stars": 50
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:07:09.994Z"
                 },
                 {
                   "node_type": "item",
@@ -690,7 +726,8 @@
                     "owner": "oresat",
                     "repo": "oresat-star-tracker-hardware",
                     "stars": 48
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:07:09.994Z"
                 }
               ],
               "description": null,
@@ -713,11 +750,12 @@
                 "archived": false,
                 "id": 95114723,
                 "language": "C++",
-                "last_commit": "2026-08-26T23:09:19Z",
+                "last_commit": "2026-08-28T17:56:35Z",
                 "owner": "nasa",
                 "repo": "fprime",
-                "stars": 11700
-              }
+                "stars": 11703
+              },
+              "first_seen": "2026-08-28T18:07:09.994Z"
             },
             {
               "node_type": "item",
@@ -728,11 +766,12 @@
                 "archived": false,
                 "id": 95805331,
                 "language": "C",
-                "last_commit": "2026-08-26T16:41:44Z",
+                "last_commit": "2026-08-28T13:32:07Z",
                 "owner": "nasa",
                 "repo": "cFS",
-                "stars": 1473
-              }
+                "stars": 1475
+              },
+              "first_seen": "2026-08-28T18:07:09.994Z"
             },
             {
               "node_type": "item",
@@ -747,7 +786,8 @@
                 "owner": "FOSSASystems",
                 "repo": "FOSSASAT-1",
                 "stars": 561
-              }
+              },
+              "first_seen": "2026-08-28T18:07:09.994Z"
             },
             {
               "node_type": "item",
@@ -762,7 +802,8 @@
                 "owner": "the-aerospace-corporation",
                 "repo": "satcat5",
                 "stars": 508
-              }
+              },
+              "first_seen": "2026-08-28T18:07:09.994Z"
             },
             {
               "node_type": "item",
@@ -777,7 +818,8 @@
                 "owner": "OpenSatKit",
                 "repo": "OpenSatKit",
                 "stars": 299
-              }
+              },
+              "first_seen": "2026-08-28T18:07:09.994Z"
             },
             {
               "node_type": "item",
@@ -792,7 +834,8 @@
                 "owner": "space-ros",
                 "repo": "space-ros",
                 "stars": 240
-              }
+              },
+              "first_seen": "2026-08-28T18:07:09.994Z"
             },
             {
               "node_type": "item",
@@ -807,7 +850,8 @@
                 "owner": "esa",
                 "repo": "nanosat-mo-framework",
                 "stars": 124
-              }
+              },
+              "first_seen": "2026-08-28T18:07:09.994Z"
             },
             {
               "node_type": "item",
@@ -822,7 +866,8 @@
                 "owner": "cfs-tools",
                 "repo": "cfs-basecamp",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-28T18:07:09.994Z"
             },
             {
               "node_type": "item",
@@ -837,7 +882,8 @@
                 "owner": "NASA-AMMOS",
                 "repo": "synopsis",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T18:07:09.994Z"
             },
             {
               "children": [
@@ -853,8 +899,9 @@
                     "last_commit": "2026-07-15T02:29:53Z",
                     "owner": "chrislgarry",
                     "repo": "Apollo-11",
-                    "stars": 72204
-                  }
+                    "stars": 72216
+                  },
+                  "first_seen": "2026-08-28T18:07:09.994Z"
                 }
               ],
               "description": null,
@@ -881,7 +928,8 @@
                 "owner": "shashwatak",
                 "repo": "satellite-js",
                 "stars": 1081
-              }
+              },
+              "first_seen": "2026-08-28T18:07:09.994Z"
             },
             {
               "node_type": "item",
@@ -896,7 +944,8 @@
                 "owner": "brandon-rhodes",
                 "repo": "python-sgp4",
                 "stars": 470
-              }
+              },
+              "first_seen": "2026-08-28T18:07:09.994Z"
             },
             {
               "node_type": "item",
@@ -911,7 +960,8 @@
                 "owner": "thkruz",
                 "repo": "ootk",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-28T18:07:09.994Z"
             },
             {
               "node_type": "item",
@@ -926,7 +976,8 @@
                 "owner": "nsat",
                 "repo": "jspredict",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T18:07:09.994Z"
             },
             {
               "node_type": "item",
@@ -941,7 +992,8 @@
                 "owner": "gunvirranu",
                 "repo": "perturb",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T18:07:09.994Z"
             },
             {
               "node_type": "item",
@@ -956,7 +1008,8 @@
                 "owner": "shupp",
                 "repo": "Predict",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T18:07:09.994Z"
             },
             {
               "node_type": "item",
@@ -971,7 +1024,8 @@
                 "owner": "shupp",
                 "repo": "Predict",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T18:07:09.994Z"
             },
             {
               "node_type": "item",
@@ -986,7 +1040,8 @@
                 "owner": "emilyselwood",
                 "repo": "orbcalc",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T18:07:09.994Z"
             },
             {
               "node_type": "item",
@@ -1001,7 +1056,8 @@
                 "owner": "cesabici-bit",
                 "repo": "satguard",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T18:07:09.994Z"
             },
             {
               "node_type": "item",
@@ -1016,7 +1072,8 @@
                 "owner": "Salad109",
                 "repo": "SIMPLETON",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T18:07:09.994Z"
             },
             {
               "node_type": "item",
@@ -1031,7 +1088,8 @@
                 "owner": "oscarjpicazo",
                 "repo": "spacedata",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T18:07:09.994Z"
             }
           ],
           "description": null,
@@ -1043,7 +1101,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T17:14:32.178Z",
+    "last_updated": "2026-08-28T18:07:09.994Z",
     "original_repository_info": {
       "archived": false,
       "id": 192268784,
