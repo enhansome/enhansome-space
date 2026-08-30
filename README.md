@@ -65,8 +65,8 @@ A curated list of space-related code, APIs, data, and other resources.
 
 #### Visualization
 
-* [Solar Wanderer](https://sw.icodestar.net) - A 1:1 real-time, browser-based solar system explorer using NASA JPL ephemerides. Seamless landing from orbit to walking on the surface, ray-marched atmospheres, and coverage out to the Oort Cloud. ([source](https://github.com/hyqzz/Solar-Wanderer) ⭐ 725 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-23)
-* [ANISE](https://github.com/nyx-space/anise) ⭐ 269 | 🐛 37 | 🌐 Rust | 📅 2026-08-27 - ANISE provides a toolkit and files for Attitude, Navigation, Instrument, Spacecraft, and Ephemeris data. It's a modern replacement of the NAIF SPICE toolkit.
+* [Solar Wanderer](https://sw.icodestar.net) - A 1:1 real-time, browser-based solar system explorer using NASA JPL ephemerides. Seamless landing from orbit to walking on the surface, ray-marched atmospheres, and coverage out to the Oort Cloud. ([source](https://github.com/hyqzz/Solar-Wanderer) ⭐ 726 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-23)
+* [ANISE](https://github.com/nyx-space/anise) ⭐ 269 | 🐛 38 | 🌐 Rust | 📅 2026-08-27 - ANISE provides a toolkit and files for Attitude, Navigation, Instrument, Spacecraft, and Ephemeris data. It's a modern replacement of the NAIF SPICE toolkit.
 * [Harmony of the Spheres](https://github.com/TheHappyKoala/Harmony-of-the-Spheres) ⭐ 136 | 🐛 25 | 🌐 TypeScript | 📅 2026-07-17 - Newtonian gravity and space simulator that runs in your browser
 * [100,000 Stars](https://stars.chromeexperiments.com/) - 100,000 Stars is an interactive visualization of the stellar neighborhood showing the location of 119,617 nearby stars.
 * [Celestia](https://celestia.space/) - Free real-time 3D visualization of space. (See also [Celestia Motherlode](http://www.celestiamotherlode.net/) for many add-ons.)
@@ -235,7 +235,7 @@ A curated list of space-related code, APIs, data, and other resources.
 
 ### Mission Control
 
-* [Open MCT](https://github.com/nasa/openmct) ⭐ 13,097 | 🐛 1,075 | 🌐 JavaScript | 📅 2026-08-26 - Ames's next-generation mission control framework for visualization of data on desktop and mobile devices.
+* [Open MCT](https://github.com/nasa/openmct) ⭐ 13,099 | 🐛 1,075 | 🌐 JavaScript | 📅 2026-08-26 - Ames's next-generation mission control framework for visualization of data on desktop and mobile devices.
 * [pluto-ecss](https://github.com/stzifkas/pluto-ecss) ⭐ 4 | 🐛 33 | 🌐 Python | 📅 2026-06-10 - Transpiler and runtime for PLUTO (ECSS-E-ST-70-32C), the standardised spacecraft operations procedure language. Compiles procedures to readable Python; includes a CLI and a browser playground.
 * [COSMOS](https://openc3.com/) - Open source mission control and satellite test & development framework
 * [Yamcs](https://yamcs.org) - Open source mission control framework (works also as backend for OpenMCT).
@@ -244,7 +244,7 @@ A curated list of space-related code, APIs, data, and other resources.
 
 * [poliastro](https://github.com/poliastro/poliastro) ⚠️ Archived - Poliastro is an open source pure Python package dedicated to problems arising in Astrodynamics and Orbital Mechanics. Focuses on interplanetary design.
 * [SPICE](https://naif.jpl.nasa.gov/naif/toolkit.html) - Ephemerides library used by JPL for their missions. [SpiceyPy](https://github.com/AndrewAnnex/SpiceyPy) ⭐ 485 | 🐛 11 | 🌐 Python | 📅 2026-08-23 is a Python wrapper.
-* [Nyx](https://github.com/nyx-space/nyx) ⭐ 482 | 🐛 27 | 🌐 Rust | 📅 2026-08-27 - Nyx is a high fidelity astrodynamics toolkit for mission design and orbit determination in Rust and Python, used on several lunar missions.
+* [Nyx](https://github.com/nyx-space/nyx) ⭐ 482 | 🐛 27 | 🌐 Rust | 📅 2026-08-30 - Nyx is a high fidelity astrodynamics toolkit for mission design and orbit determination in Rust and Python, used on several lunar missions.
 * [Open Space Toolkit](https://github.com/open-space-collective/open-space-toolkit) ⭐ 205 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2026-08-10 - Collection of versatile software libraries for space engineering applications (e.g., environment modeling, orbit and access computation).
 * [SpOCK](https://github.com/deflorio/SpOCK/) ⭐ 47 | 🐛 0 | 🌐 C++ | 📅 2026-04-17 - The Spacecraft Orbital Computations Kit is an open source tool for spacecraft mission analysis and simulation.
 * [Copernicus](https://www.nasa.gov/general/copernicus/) - Copernicus, a generalized spacecraft trajectory design and optimization system, is capable of solving a wide range of trajectory problems such as planet or moon centered trajectories, libration point trajectories, planet-moon transfers and tours, and all types of interplanetary and asteroid/comet missions. (NASA)
@@ -261,8 +261,8 @@ A curated list of space-related code, APIs, data, and other resources.
 ### Simulation
 
 * [Gazebo](https://github.com/osrf/gazebo) ⚠️ Archived - Robotics simulator often used for planetary rovers
-* [NOS3](https://github.com/nasa/nos3) ⭐ 618 | 🐛 70 | 🌐 C | 📅 2026-08-21 - NASA Operational Simulator for Small Satellites
-* [Basilisk](https://github.com/AVSLab/basilisk) ⭐ 373 | 🐛 70 | 🌐 C | 📅 2026-08-29 - C/C++ astrodynamics and attitude control simulation (includes Python scripting).
+* [NOS3](https://github.com/nasa/nos3) ⭐ 619 | 🐛 70 | 🌐 C | 📅 2026-08-21 - NASA Operational Simulator for Small Satellites
+* [Basilisk](https://github.com/AVSLab/basilisk) ⭐ 374 | 🐛 70 | 🌐 C | 📅 2026-08-30 - C/C++ astrodynamics and attitude control simulation (includes Python scripting).
 * [Space Robotics Bench](https://github.com/AndrejOrsula/space_robotics_bench) ⭐ 184 | 🐛 19 | 🌐 Python | 📅 2025-12-01 - Simulation environments and tasks for developing and validating autonomous systems in orbital and planetary robotics scenarios.
 * [Trick](https://github.com/nasa/trick) ⭐ 159 | 🐛 112 | 🌐 C++ | 📅 2026-08-29 - End-to-end physics simulation package, useful for simulating missions (but requires orbital dynamics models). C, C++, with Python (SWIG) interface.
 * [NodalArc](https://github.com/dotchance/nodalarc) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-08-29 - Satellite network emulator running real Linux routing stacks (FRR with IS-IS, OSPF, BGP, and MPLS) against moving LEO topology. Each satellite is a Linux network namespace; orbital mechanics drive interface state, link latency, and ground-station handoffs.
@@ -300,13 +300,13 @@ A curated list of space-related code, APIs, data, and other resources.
 
 ### Spacecraft Software
 
-* [JPL F Prime](https://github.com/nasa/fprime) ⭐ 11,710 | 🐛 447 | 🌐 C++ | 📅 2026-08-28 - F Prime (FÊ¹) is a component-driven framework that enables rapid development and deployment of spaceflight and other embedded software applications, originally developed at the Jet Propulsion Laboratory.
-* [Core Flight System](https://github.com/nasa/cfs) ⭐ 1,475 | 🐛 109 | 🌐 C | 📅 2026-08-29 - NASA portable and extendable flight software framework with extensive flight heritage and a growing suite of applications and platform ports
+* [JPL F Prime](https://github.com/nasa/fprime) ⭐ 11,712 | 🐛 456 | 🌐 C++ | 📅 2026-08-29 - F Prime (FÊ¹) is a component-driven framework that enables rapid development and deployment of spaceflight and other embedded software applications, originally developed at the Jet Propulsion Laboratory.
+* [Core Flight System](https://github.com/nasa/cfs) ⭐ 1,476 | 🐛 108 | 🌐 C | 📅 2026-08-29 - NASA portable and extendable flight software framework with extensive flight heritage and a growing suite of applications and platform ports
 * [FossaSat-1](https://fossa.systems/fossasat/) - Hardware designs and software for the FossaSat-1 Pocketqube satellite ([GitHub](https://github.com/Bambofy/FossaSat-1) ⭐ 561 | 🐛 10 | 🌐 HTML | 📅 2019-12-09)
-* [SatCat5](https://github.com/the-aerospace-corporation/satcat5) ⭐ 508 | 🐛 1 | 🌐 VHDL | 📅 2026-08-13 - A mixed-media Ethernet switch for connecting smallsat payloads
-* [OpenSatKit](https://github.com/OpenSatKit/OpenSatKit) ⭐ 299 | 🐛 64 | 🌐 C | 📅 2024-03-25 - A complete [Core Flight System](https://github.com/nasa/cfs) ⭐ 1,475 | 🐛 109 | 🌐 C | 📅 2026-08-29 training and application development environment that includes [COSMOS](https://cosmosrb.com/) and [42](https://software.nasa.gov/software/GSC-16720-1)
+* [SatCat5](https://github.com/the-aerospace-corporation/satcat5) ⭐ 510 | 🐛 1 | 🌐 VHDL | 📅 2026-08-13 - A mixed-media Ethernet switch for connecting smallsat payloads
+* [OpenSatKit](https://github.com/OpenSatKit/OpenSatKit) ⭐ 299 | 🐛 64 | 🌐 C | 📅 2024-03-25 - A complete [Core Flight System](https://github.com/nasa/cfs) ⭐ 1,476 | 🐛 108 | 🌐 C | 📅 2026-08-29 training and application development environment that includes [COSMOS](https://cosmosrb.com/) and [42](https://software.nasa.gov/software/GSC-16720-1)
 * [Space ROS](https://github.com/space-ros/space-ros) ⭐ 240 | 🐛 12 | 🌐 Earthly | 📅 2026-08-19 - ROS 2-based framework for space robotics software, testing, and interoperability.
-* [NanoSat MO Framework](http://nanosat-mo-framework.github.io) - A software framework for nanosatellites based on the latest CCSDS standards. Developed by ESA and used in OPS-SAT mission ([GitHub](https://github.com/esa/nanosat-mo-framework) ⭐ 124 | 🐛 1 | 🌐 Java | 📅 2026-08-29)
+* [NanoSat MO Framework](http://nanosat-mo-framework.github.io) - A software framework for nanosatellites based on the latest CCSDS standards. Developed by ESA and used in OPS-SAT mission ([GitHub](https://github.com/esa/nanosat-mo-framework) ⭐ 124 | 🐛 1 | 🌐 Java | 📅 2026-08-30)
 * [cFS Basecamp](https://github.com/cfs-tools/cfs-basecamp) ⭐ 60 | 🐛 52 | 🌐 C | 📅 2026-07-29 - Provides a lightweight environment to help you learn NASA’s cFS and create app-based solutions for your projects. The built-in hands-on tutorials shorten the path to productivity.
 * [SYNOPSIS](https://github.com/NASA-AMMOS/synopsis) ⭐ 3 | 🐛 2 | 🌐 C | 📅 2024-09-03 - NASA-AMMOS framework for onboard data-product generation and downlink prioritization, including autonomous science products and cFS integration.
 * [KubOS](https://www.kubos.com/kubos/) - An open-source flight software framework for satellites
@@ -317,7 +317,7 @@ A curated list of space-related code, APIs, data, and other resources.
 
 #### Legacy
 
-* [Apollo 11 Guidance Code](https://github.com/chrislgarry/Apollo-11) ⭐ 72,220 | 🐛 131 | 🌐 Assembly | 📅 2026-07-15 - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules
+* [Apollo 11 Guidance Code](https://github.com/chrislgarry/Apollo-11) ⭐ 72,227 | 🐛 131 | 🌐 Assembly | 📅 2026-07-15 - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules
 
 ### Tracking & Orbit Determination
 
@@ -354,4 +354,4 @@ To the extent possible under law, [The Orbital Index](https://orbitalindex.com/)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
