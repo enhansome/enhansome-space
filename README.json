@@ -99,7 +99,7 @@
                     "open_issues": 1,
                     "owner": "hyqzz",
                     "repo": "Solar-Wanderer",
-                    "stars": 734,
+                    "stars": 735,
                     "topics": [
                       "3d",
                       "astronomy",
@@ -196,7 +196,7 @@
                 "open_issues": 30,
                 "owner": "hannorein",
                 "repo": "rebound",
-                "stars": 1122,
+                "stars": 1123,
                 "topics": [
                   "astrophysics",
                   "keplerian-elements",
@@ -525,7 +525,7 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-05T17:23:46Z",
-                "open_issues": 1087,
+                "open_issues": 1089,
                 "owner": "nasa",
                 "repo": "openmct",
                 "stars": 13112,
@@ -596,6 +596,39 @@
             },
             {
               "node_type": "item",
+              "title": "Nyx",
+              "description": "Nyx is a high fidelity astrodynamics toolkit for mission design and orbit determination in Rust and Python, used on several lunar missions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Nyx is a high fidelity, fast, reliable and validated astrodynamics toolkit library written in Rust and available in Python",
+                "homepage": "https://nyxspace.com",
+                "id": 115235540,
+                "language": "Rust",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-09-07T21:54:10Z",
+                "open_issues": 27,
+                "owner": "nyx-space",
+                "repo": "nyx",
+                "stars": 487,
+                "topics": [
+                  "astrodynamics",
+                  "gmat",
+                  "odtk",
+                  "orbit-determination",
+                  "orbital-mechanics",
+                  "python",
+                  "rust",
+                  "space-mission",
+                  "spice",
+                  "stk",
+                  "trajectory-optimization"
+                ]
+              },
+              "first_seen": "2026-08-28T18:07:09.994Z"
+            },
+            {
+              "node_type": "item",
               "title": "SPICE",
               "description": "Ephemerides library used by JPL for their missions. SpiceyPy is a Python wrapper.",
               "children": [],
@@ -619,39 +652,6 @@
                   "space",
                   "spice",
                   "toolkit"
-                ]
-              },
-              "first_seen": "2026-08-28T18:07:09.994Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Nyx",
-              "description": "Nyx is a high fidelity astrodynamics toolkit for mission design and orbit determination in Rust and Python, used on several lunar missions.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Nyx is a high fidelity, fast, reliable and validated astrodynamics toolkit library written in Rust and available in Python",
-                "homepage": "https://nyxspace.com",
-                "id": 115235540,
-                "language": "Rust",
-                "license": "AGPL-3.0",
-                "last_commit": "2026-09-04T04:35:13Z",
-                "open_issues": 27,
-                "owner": "nyx-space",
-                "repo": "nyx",
-                "stars": 485,
-                "topics": [
-                  "astrodynamics",
-                  "gmat",
-                  "odtk",
-                  "orbit-determination",
-                  "orbital-mechanics",
-                  "python",
-                  "rust",
-                  "space-mission",
-                  "spice",
-                  "stk",
-                  "trajectory-optimization"
                 ]
               },
               "first_seen": "2026-08-28T18:07:09.994Z"
@@ -773,7 +773,7 @@
                 "open_issues": 70,
                 "owner": "nasa",
                 "repo": "nos3",
-                "stars": 622,
+                "stars": 623,
                 "topics": [
                   "42",
                   "cfs",
@@ -799,11 +799,11 @@
                 "id": 577555866,
                 "language": "C",
                 "license": "ISC",
-                "last_commit": "2026-09-07T11:07:55Z",
+                "last_commit": "2026-09-07T19:00:32Z",
                 "open_issues": 41,
                 "owner": "AVSLab",
                 "repo": "basilisk",
-                "stars": 377,
+                "stars": 378,
                 "topics": [
                   "astrodynamics",
                   "control",
@@ -860,7 +860,7 @@
                 "open_issues": 114,
                 "owner": "nasa",
                 "repo": "trick",
-                "stars": 161,
+                "stars": 163,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:07:09.994Z"
@@ -1139,11 +1139,11 @@
                 "id": 95114723,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-06T22:13:16Z",
-                "open_issues": 435,
+                "last_commit": "2026-09-07T22:13:23Z",
+                "open_issues": 440,
                 "owner": "nasa",
                 "repo": "fprime",
-                "stars": 11731,
+                "stars": 11732,
                 "topics": [
                   "components",
                   "cpp",
@@ -1178,7 +1178,7 @@
                 "open_issues": 107,
                 "owner": "nasa",
                 "repo": "cFS",
-                "stars": 1487,
+                "stars": 1489,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:07:09.994Z"
@@ -1362,7 +1362,7 @@
                     "open_issues": 131,
                     "owner": "chrislgarry",
                     "repo": "Apollo-11",
-                    "stars": 72300,
+                    "stars": 72310,
                     "topics": [
                       "agc",
                       "apollo",
@@ -1400,7 +1400,7 @@
                 "open_issues": 6,
                 "owner": "shashwatak",
                 "repo": "satellite-js",
-                "stars": 1086,
+                "stars": 1085,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:07:09.994Z"
@@ -1642,7 +1642,7 @@
                 "id": 1117837086,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-09-03T01:33:36Z",
+                "last_commit": "2026-09-08T01:33:19Z",
                 "open_issues": 7,
                 "owner": "Salad109",
                 "repo": "SIMPLETON",
@@ -1704,7 +1704,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T11:24:20.953Z",
+    "last_updated": "2026-09-08T10:28:13.301Z",
     "original_repository_info": {
       "archived": false,
       "description": "🛰️🚀A list of awesome space-related packages and resources maintained by The Orbital Index",
