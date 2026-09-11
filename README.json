@@ -99,7 +99,7 @@
                     "open_issues": 1,
                     "owner": "hyqzz",
                     "repo": "Solar-Wanderer",
-                    "stars": 736,
+                    "stars": 737,
                     "topics": [
                       "3d",
                       "astronomy",
@@ -132,8 +132,8 @@
                     "id": 433689468,
                     "language": "Rust",
                     "license": "MPL-2.0",
-                    "last_commit": "2026-09-09T20:36:27Z",
-                    "open_issues": 38,
+                    "last_commit": "2026-09-10T11:06:19Z",
+                    "open_issues": 39,
                     "owner": "nyx-space",
                     "repo": "anise",
                     "stars": 270,
@@ -193,10 +193,10 @@
                 "language": "C",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-26T11:17:35Z",
-                "open_issues": 31,
+                "open_issues": 32,
                 "owner": "hannorein",
                 "repo": "rebound",
-                "stars": 1123,
+                "stars": 1125,
                 "topics": [
                   "astrophysics",
                   "keplerian-elements",
@@ -525,10 +525,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-10T03:03:06Z",
-                "open_issues": 1089,
+                "open_issues": 1090,
                 "owner": "nasa",
                 "repo": "openmct",
-                "stars": 13112,
+                "stars": 13115,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:07:09.994Z"
@@ -606,7 +606,7 @@
                 "id": 115235540,
                 "language": "Rust",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-10T06:04:35Z",
+                "last_commit": "2026-09-11T06:08:37Z",
                 "open_issues": 28,
                 "owner": "nyx-space",
                 "repo": "nyx",
@@ -773,7 +773,7 @@
                 "open_issues": 70,
                 "owner": "nasa",
                 "repo": "nos3",
-                "stars": 623,
+                "stars": 624,
                 "topics": [
                   "42",
                   "cfs",
@@ -799,11 +799,11 @@
                 "id": 577555866,
                 "language": "C",
                 "license": "ISC",
-                "last_commit": "2026-09-10T00:12:31Z",
-                "open_issues": 33,
+                "last_commit": "2026-09-11T01:23:19Z",
+                "open_issues": 30,
                 "owner": "AVSLab",
                 "repo": "basilisk",
-                "stars": 378,
+                "stars": 380,
                 "topics": [
                   "astrodynamics",
                   "control",
@@ -856,11 +856,11 @@
                 "id": 30925311,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-10T07:45:05Z",
-                "open_issues": 119,
+                "last_commit": "2026-09-10T21:14:29Z",
+                "open_issues": 113,
                 "owner": "nasa",
                 "repo": "trick",
-                "stars": 166,
+                "stars": 167,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:07:09.994Z"
@@ -982,7 +982,7 @@
                 "open_issues": 10,
                 "owner": "FOSSASystems",
                 "repo": "FOSSASAT-1",
-                "stars": 561,
+                "stars": 562,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:07:09.994Z"
@@ -1139,11 +1139,11 @@
                 "id": 95114723,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-09T22:33:52Z",
-                "open_issues": 473,
+                "last_commit": "2026-09-11T02:02:57Z",
+                "open_issues": 461,
                 "owner": "nasa",
                 "repo": "fprime",
-                "stars": 11731,
+                "stars": 11733,
                 "topics": [
                   "components",
                   "cpp",
@@ -1174,11 +1174,11 @@
                 "id": 95805331,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-10T05:59:57Z",
-                "open_issues": 108,
+                "last_commit": "2026-09-11T06:02:13Z",
+                "open_issues": 110,
                 "owner": "nasa",
                 "repo": "cFS",
-                "stars": 1493,
+                "stars": 1494,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:07:09.994Z"
@@ -1199,7 +1199,7 @@
                 "open_issues": 10,
                 "owner": "FOSSASystems",
                 "repo": "FOSSASAT-1",
-                "stars": 561,
+                "stars": 562,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:07:09.994Z"
@@ -1241,7 +1241,7 @@
                 "open_issues": 64,
                 "owner": "OpenSatKit",
                 "repo": "OpenSatKit",
-                "stars": 299,
+                "stars": 300,
                 "topics": [
                   "cubesat",
                   "flight",
@@ -1362,7 +1362,7 @@
                     "open_issues": 131,
                     "owner": "chrislgarry",
                     "repo": "Apollo-11",
-                    "stars": 72313,
+                    "stars": 72324,
                     "topics": [
                       "agc",
                       "apollo",
@@ -1704,7 +1704,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T10:27:00.041Z",
+    "last_updated": "2026-09-11T10:29:18.662Z",
     "original_repository_info": {
       "archived": false,
       "description": "🛰️🚀A list of awesome space-related packages and resources maintained by The Orbital Index",
@@ -1716,7 +1716,7 @@
       "open_issues": 8,
       "owner": "orbitalindex",
       "repo": "awesome-space",
-      "stars": 2216,
+      "stars": 2217,
       "topics": [
         "astronomy-apis",
         "awesome",
