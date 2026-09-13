@@ -196,7 +196,7 @@
                 "open_issues": 33,
                 "owner": "hannorein",
                 "repo": "rebound",
-                "stars": 1125,
+                "stars": 1126,
                 "topics": [
                   "astrophysics",
                   "keplerian-elements",
@@ -528,7 +528,7 @@
                 "open_issues": 1090,
                 "owner": "nasa",
                 "repo": "openmct",
-                "stars": 13117,
+                "stars": 13116,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:07:09.994Z"
@@ -577,7 +577,7 @@
                 "open_issues": 142,
                 "owner": "poliastro",
                 "repo": "poliastro",
-                "stars": 1013,
+                "stars": 1014,
                 "topics": [
                   "astrodynamics",
                   "celestial-mechanics",
@@ -639,8 +639,8 @@
                 "id": 15879082,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-31T01:43:50Z",
-                "open_issues": 11,
+                "last_commit": "2026-09-13T07:23:12Z",
+                "open_issues": 12,
                 "owner": "AndrewAnnex",
                 "repo": "SpiceyPy",
                 "stars": 486,
@@ -672,7 +672,7 @@
                 "open_issues": 13,
                 "owner": "open-space-collective",
                 "repo": "open-space-toolkit",
-                "stars": 205,
+                "stars": 206,
                 "topics": [
                   "cpp",
                   "engineering",
@@ -799,11 +799,11 @@
                 "id": 577555866,
                 "language": "C",
                 "license": "ISC",
-                "last_commit": "2026-09-12T04:01:28Z",
-                "open_issues": 22,
+                "last_commit": "2026-09-13T02:09:48Z",
+                "open_issues": 18,
                 "owner": "AVSLab",
                 "repo": "basilisk",
-                "stars": 380,
+                "stars": 381,
                 "topics": [
                   "astrodynamics",
                   "control",
@@ -831,7 +831,7 @@
                 "open_issues": 19,
                 "owner": "AndrejOrsula",
                 "repo": "space_robotics_bench",
-                "stars": 188,
+                "stars": 189,
                 "topics": [
                   "benchmark",
                   "robot-learning",
@@ -860,7 +860,7 @@
                 "open_issues": 113,
                 "owner": "nasa",
                 "repo": "trick",
-                "stars": 167,
+                "stars": 168,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:07:09.994Z"
@@ -1139,11 +1139,11 @@
                 "id": 95114723,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-12T03:22:08Z",
-                "open_issues": 464,
+                "last_commit": "2026-09-12T22:12:20Z",
+                "open_issues": 466,
                 "owner": "nasa",
                 "repo": "fprime",
-                "stars": 11734,
+                "stars": 11735,
                 "topics": [
                   "components",
                   "cpp",
@@ -1174,11 +1174,11 @@
                 "id": 95805331,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-12T05:49:13Z",
+                "last_commit": "2026-09-13T06:12:27Z",
                 "open_issues": 109,
                 "owner": "nasa",
                 "repo": "cFS",
-                "stars": 1495,
+                "stars": 1496,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:07:09.994Z"
@@ -1362,7 +1362,7 @@
                     "open_issues": 131,
                     "owner": "chrislgarry",
                     "repo": "Apollo-11",
-                    "stars": 72332,
+                    "stars": 72340,
                     "topics": [
                       "agc",
                       "apollo",
@@ -1400,7 +1400,7 @@
                 "open_issues": 6,
                 "owner": "shashwatak",
                 "repo": "satellite-js",
-                "stars": 1086,
+                "stars": 1087,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:07:09.994Z"
@@ -1642,8 +1642,8 @@
                 "id": 1117837086,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-09-10T01:34:56Z",
-                "open_issues": 8,
+                "last_commit": "2026-09-12T13:18:26Z",
+                "open_issues": 1,
                 "owner": "Salad109",
                 "repo": "SIMPLETON",
                 "stars": 2,
@@ -1704,7 +1704,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T09:57:31.049Z",
+    "last_updated": "2026-09-13T10:59:08.820Z",
     "original_repository_info": {
       "archived": false,
       "description": "🛰️🚀A list of awesome space-related packages and resources maintained by The Orbital Index",
