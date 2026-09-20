@@ -133,7 +133,7 @@
                     "language": "Rust",
                     "license": "MPL-2.0",
                     "last_commit": "2026-09-18T11:05:17Z",
-                    "open_issues": 23,
+                    "open_issues": 24,
                     "owner": "nyx-space",
                     "repo": "anise",
                     "stars": 274,
@@ -528,7 +528,7 @@
                 "open_issues": 1092,
                 "owner": "nasa",
                 "repo": "openmct",
-                "stars": 13127,
+                "stars": 13129,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:07:09.994Z"
@@ -639,8 +639,8 @@
                 "id": 15879082,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-13T17:56:41Z",
-                "open_issues": 11,
+                "last_commit": "2026-09-20T07:23:09Z",
+                "open_issues": 12,
                 "owner": "AndrewAnnex",
                 "repo": "SpiceyPy",
                 "stars": 486,
@@ -773,7 +773,7 @@
                 "open_issues": 71,
                 "owner": "nasa",
                 "repo": "nos3",
-                "stars": 629,
+                "stars": 630,
                 "topics": [
                   "42",
                   "cfs",
@@ -799,11 +799,11 @@
                 "id": 577555866,
                 "language": "C",
                 "license": "ISC",
-                "last_commit": "2026-09-18T23:54:48Z",
-                "open_issues": 25,
+                "last_commit": "2026-09-20T10:29:06Z",
+                "open_issues": 24,
                 "owner": "AVSLab",
                 "repo": "basilisk",
-                "stars": 387,
+                "stars": 388,
                 "topics": [
                   "astrodynamics",
                   "control",
@@ -831,7 +831,7 @@
                 "open_issues": 19,
                 "owner": "AndrejOrsula",
                 "repo": "space_robotics_bench",
-                "stars": 190,
+                "stars": 191,
                 "topics": [
                   "benchmark",
                   "robot-learning",
@@ -1139,11 +1139,11 @@
                 "id": 95114723,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T22:13:36Z",
-                "open_issues": 470,
+                "last_commit": "2026-09-19T22:13:31Z",
+                "open_issues": 474,
                 "owner": "nasa",
                 "repo": "fprime",
-                "stars": 11765,
+                "stars": 11766,
                 "topics": [
                   "components",
                   "cpp",
@@ -1284,7 +1284,7 @@
                 "id": 126887538,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-19T09:41:06Z",
+                "last_commit": "2026-09-20T10:05:53Z",
                 "open_issues": 1,
                 "owner": "esa",
                 "repo": "nanosat-mo-framework",
@@ -1362,7 +1362,7 @@
                     "open_issues": 132,
                     "owner": "chrislgarry",
                     "repo": "Apollo-11",
-                    "stars": 72397,
+                    "stars": 72398,
                     "topics": [
                       "agc",
                       "apollo",
@@ -1704,7 +1704,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T10:11:04.459Z",
+    "last_updated": "2026-09-20T10:29:44.520Z",
     "original_repository_info": {
       "archived": false,
       "description": "🛰️🚀A list of awesome space-related packages and resources maintained by The Orbital Index",
@@ -1712,11 +1712,11 @@
       "id": 192268784,
       "language": "Ruby",
       "license": null,
-      "last_commit": "2026-08-20T18:18:06Z",
-      "open_issues": 10,
+      "last_commit": "2026-09-19T20:51:27Z",
+      "open_issues": 9,
       "owner": "orbitalindex",
       "repo": "awesome-space",
-      "stars": 2218,
+      "stars": 2219,
       "topics": [
         "astronomy-apis",
         "awesome",
@@ -1724,7 +1724,7 @@
         "space"
       ]
     },
-    "original_repository_sha": "b5091e6a2e40c5843ffc3612e7d992cb5e889b94",
+    "original_repository_sha": "65209d95835f989fdff6c78ba216a93075dd4237",
     "enhanced_repository": "enhansome/enhansome-space",
     "enhanced_repository_description": null,
     "title": "Awesome Space with stars"
