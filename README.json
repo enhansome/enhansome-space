@@ -96,7 +96,7 @@
                     "language": "JavaScript",
                     "license": "MIT",
                     "last_commit": "2026-10-01T02:19:35Z",
-                    "open_issues": 0,
+                    "open_issues": 1,
                     "owner": "hyqzz",
                     "repo": "Solar-Wanderer",
                     "stars": 745,
@@ -528,7 +528,7 @@
                 "open_issues": 1091,
                 "owner": "nasa",
                 "repo": "openmct",
-                "stars": 13148,
+                "stars": 13150,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:07:09.994Z"
@@ -1143,7 +1143,7 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-03T02:35:30Z",
-                "open_issues": 429,
+                "open_issues": 430,
                 "owner": "nasa",
                 "repo": "fprime",
                 "stars": 11807,
@@ -1177,8 +1177,8 @@
                 "id": 95805331,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T12:40:24Z",
-                "open_issues": 112,
+                "last_commit": "2026-10-03T06:34:57Z",
+                "open_issues": 113,
                 "owner": "nasa",
                 "repo": "cFS",
                 "stars": 1519,
@@ -1365,7 +1365,7 @@
                     "open_issues": 132,
                     "owner": "chrislgarry",
                     "repo": "Apollo-11",
-                    "stars": 72469,
+                    "stars": 72471,
                     "topics": [
                       "agc",
                       "apollo",
@@ -1707,7 +1707,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:09:09.067Z",
+    "last_updated": "2026-10-03T10:59:41.252Z",
     "original_repository_info": {
       "archived": false,
       "description": "🛰️🚀A list of awesome space-related packages and resources maintained by The Orbital Index",
