@@ -33,6 +33,36 @@
                 ]
               },
               "first_seen": "2026-08-28T18:07:09.994Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Markarian Multiwavelength Data Center (MMDC)",
+              "description": "Multiwavelength SEDs and light curves of blazars from archival catalogues and new Swift, NuSTAR and Fermi-LAT analyses, with a REST API, a Python client (astro-mmdc) and SSC/EIC/hadronic modeling.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Python SDK for the Markarian Multiwavelength Data Center (MMDC): multiwavelength SEDs, Swift UVOT/XRT analysis and blazar emission modeling",
+                "homepage": "https://mmdc.am",
+                "id": 1391012117,
+                "language": "Python",
+                "license": "BSD-3-Clause",
+                "last_commit": "2026-10-06T08:37:33Z",
+                "open_issues": 0,
+                "owner": "icranet",
+                "repo": "astro-mmdc",
+                "stars": 1,
+                "topics": [
+                  "astronomy",
+                  "astrophysics",
+                  "blazar",
+                  "fermi-lat",
+                  "multiwavelength",
+                  "python-sdk",
+                  "sed",
+                  "swift"
+                ]
+              },
+              "first_seen": "2026-10-06T10:38:40.989Z"
             }
           ],
           "description": null,
@@ -99,7 +129,7 @@
                     "open_issues": 0,
                     "owner": "hyqzz",
                     "repo": "Solar-Wanderer",
-                    "stars": 748,
+                    "stars": 749,
                     "topics": [
                       "3d",
                       "astronomy",
@@ -319,6 +349,38 @@
                 ]
               },
               "first_seen": "2026-08-28T18:07:09.994Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Assured Autonomy",
+              "description": "Curated research, tools, benchmarks, standards, and open-source systems for assuring autonomous systems.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Curated research, tools, benchmarks, standards, and open-source systems for assuring autonomous systems.",
+                "homepage": "https://www.sylvesterkaczmarek.com",
+                "id": 1335993238,
+                "language": null,
+                "license": "CC0-1.0",
+                "last_commit": "2026-08-17T20:05:45Z",
+                "open_issues": 0,
+                "owner": "sylvesterkaczmarek",
+                "repo": "awesome-assured-autonomy",
+                "stars": 1,
+                "topics": [
+                  "aerospace",
+                  "ai-safety",
+                  "assured-autonomy",
+                  "autonomous-systems",
+                  "awesome",
+                  "awesome-list",
+                  "formal-verification",
+                  "robotics",
+                  "runtime-assurance",
+                  "safe-reinforcement-learning"
+                ]
+              },
+              "first_seen": "2026-10-06T10:38:40.989Z"
             }
           ],
           "description": null,
@@ -472,7 +534,7 @@
                 "open_issues": 2,
                 "owner": "deptofdefense",
                 "repo": "hack-a-sat-library",
-                "stars": 977,
+                "stars": 978,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:07:09.994Z"
@@ -528,7 +590,7 @@
                 "open_issues": 1091,
                 "owner": "nasa",
                 "repo": "openmct",
-                "stars": 13151,
+                "stars": 13152,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:07:09.994Z"
@@ -672,7 +734,7 @@
                 "open_issues": 13,
                 "owner": "open-space-collective",
                 "repo": "open-space-toolkit",
-                "stars": 207,
+                "stars": 208,
                 "topics": [
                   "cpp",
                   "engineering",
@@ -711,6 +773,27 @@
                 ]
               },
               "first_seen": "2026-08-28T18:07:09.994Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Space Water Logistics",
+              "description": "Open Python models for water in space: crew water loop and resupply mass, lunar settlement water depletion and import demand, and Earth vs lunar water delivery gear ratios, built on public NASA and published data.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Open models for delivering water in space: Earth vs lunar water, crew water loops, recycling",
+                "homepage": null,
+                "id": 1405906729,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-05T21:19:36Z",
+                "open_issues": 0,
+                "owner": "SpaceOceanCorp",
+                "repo": "space-water-logistics",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-10-06T10:38:40.989Z"
             }
           ],
           "description": null,
@@ -802,8 +885,8 @@
                 "id": 577555866,
                 "language": "C",
                 "license": "ISC",
-                "last_commit": "2026-10-05T00:02:42Z",
-                "open_issues": 14,
+                "last_commit": "2026-10-06T01:16:52Z",
+                "open_issues": 15,
                 "owner": "AVSLab",
                 "repo": "basilisk",
                 "stars": 400,
@@ -859,7 +942,7 @@
                 "id": 30925311,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T16:20:52Z",
+                "last_commit": "2026-10-05T18:18:27Z",
                 "open_issues": 113,
                 "owner": "nasa",
                 "repo": "trick",
@@ -1142,11 +1225,11 @@
                 "id": 95114723,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-04T22:13:25Z",
-                "open_issues": 452,
+                "last_commit": "2026-10-05T22:13:49Z",
+                "open_issues": 457,
                 "owner": "nasa",
                 "repo": "fprime",
-                "stars": 11808,
+                "stars": 11811,
                 "topics": [
                   "components",
                   "cpp",
@@ -1177,7 +1260,7 @@
                 "id": 95805331,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T07:05:04Z",
+                "last_commit": "2026-10-06T07:35:59Z",
                 "open_issues": 113,
                 "owner": "nasa",
                 "repo": "cFS",
@@ -1362,10 +1445,10 @@
                     "language": "Assembly",
                     "license": "NOASSERTION",
                     "last_commit": "2026-07-15T02:29:53Z",
-                    "open_issues": 132,
+                    "open_issues": 133,
                     "owner": "chrislgarry",
                     "repo": "Apollo-11",
-                    "stars": 72479,
+                    "stars": 72481,
                     "topics": [
                       "agc",
                       "apollo",
@@ -1707,7 +1790,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T13:24:17.690Z",
+    "last_updated": "2026-10-06T10:38:40.989Z",
     "original_repository_info": {
       "archived": false,
       "description": "🛰️🚀A list of awesome space-related packages and resources maintained by The Orbital Index",
@@ -1715,8 +1798,8 @@
       "id": 192268784,
       "language": "Ruby",
       "license": null,
-      "last_commit": "2026-10-05T04:02:59Z",
-      "open_issues": 12,
+      "last_commit": "2026-10-05T19:27:05Z",
+      "open_issues": 10,
       "owner": "orbitalindex",
       "repo": "awesome-space",
       "stars": 2224,
@@ -1727,7 +1810,7 @@
         "space"
       ]
     },
-    "original_repository_sha": "8e3f7d244965e1d861b9d00f8b4ee02f95e27360",
+    "original_repository_sha": "6dac59e00797b7b8cf7cb57b54dac26f035a85f4",
     "enhanced_repository": "enhansome/enhansome-space",
     "enhanced_repository_description": null,
     "title": "Awesome Space with stars"
