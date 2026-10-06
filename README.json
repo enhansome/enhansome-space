@@ -222,7 +222,7 @@
                 "id": 1987576,
                 "language": "C",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-05T12:56:52Z",
+                "last_commit": "2026-10-06T12:14:45Z",
                 "open_issues": 28,
                 "owner": "hannorein",
                 "repo": "rebound",
@@ -885,8 +885,8 @@
                 "id": 577555866,
                 "language": "C",
                 "license": "ISC",
-                "last_commit": "2026-10-06T01:16:52Z",
-                "open_issues": 15,
+                "last_commit": "2026-10-06T12:37:29Z",
+                "open_issues": 16,
                 "owner": "AVSLab",
                 "repo": "basilisk",
                 "stars": 400,
@@ -1260,8 +1260,8 @@
                 "id": 95805331,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T07:35:59Z",
-                "open_issues": 113,
+                "last_commit": "2026-10-06T11:45:49Z",
+                "open_issues": 110,
                 "owner": "nasa",
                 "repo": "cFS",
                 "stars": 1520,
@@ -1448,7 +1448,7 @@
                     "open_issues": 133,
                     "owner": "chrislgarry",
                     "repo": "Apollo-11",
-                    "stars": 72481,
+                    "stars": 72479,
                     "topics": [
                       "agc",
                       "apollo",
@@ -1790,7 +1790,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:38:40.989Z",
+    "last_updated": "2026-10-06T12:38:15.792Z",
     "original_repository_info": {
       "archived": false,
       "description": "🛰️🚀A list of awesome space-related packages and resources maintained by The Orbital Index",
