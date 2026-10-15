@@ -129,7 +129,7 @@
                     "open_issues": 1,
                     "owner": "hyqzz",
                     "repo": "Solar-Wanderer",
-                    "stars": 755,
+                    "stars": 754,
                     "topics": [
                       "3d",
                       "astronomy",
@@ -163,10 +163,10 @@
                     "language": "Rust",
                     "license": "MPL-2.0",
                     "last_commit": "2026-10-12T12:51:46Z",
-                    "open_issues": 28,
+                    "open_issues": 30,
                     "owner": "nyx-space",
                     "repo": "anise",
-                    "stars": 281,
+                    "stars": 282,
                     "topics": [
                       "attitude",
                       "ephemeris",
@@ -223,10 +223,10 @@
                 "language": "C",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-06T12:14:45Z",
-                "open_issues": 29,
+                "open_issues": 28,
                 "owner": "hannorein",
                 "repo": "rebound",
-                "stars": 1143,
+                "stars": 1144,
                 "topics": [
                   "astrophysics",
                   "keplerian-elements",
@@ -442,6 +442,34 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T18:07:09.994Z"
+            },
+            {
+              "node_type": "item",
+              "title": "SETU",
+              "description": "Forecasts geomagnetically induced currents in the North East Indian power grid from space weather data. Its live nowcast issued 114 forecasts with no false alarms.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "An early warning system that forecasts solar storm currents in the North East Indian power grid. 114 live forecasts and 0 false alarms.",
+                "homepage": "https://pragyaangaur.github.io/SETU/",
+                "id": 1356325350,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-09-27T05:33:00Z",
+                "open_issues": 0,
+                "owner": "pragyaangaur",
+                "repo": "SETU",
+                "stars": 0,
+                "topics": [
+                  "grid-resilience",
+                  "neural-network",
+                  "physics-informed-machine-learning",
+                  "power-grids",
+                  "solar-physics",
+                  "space-weather"
+                ]
+              },
+              "first_seen": "2026-10-15T10:45:25.804Z"
             }
           ],
           "description": null,
@@ -509,6 +537,44 @@
           "description": null,
           "node_type": "group",
           "title": "Launches"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PSR-Net",
+              "description": "Recovers terrain inside the Moon's permanently shadowed craters from Chandrayaan-2 OHRC images, with a seven-stage pipeline and a trained network that run in the browser (source)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Recovering terrain from permanently shadowed lunar craters imaged by Chandrayaan-2 OHRC — a seven-stage deterministic pipeline and a trained ONNX network, both running in the browser.",
+                "homepage": "https://psr-net.vercel.app/psr/",
+                "id": 1338435726,
+                "language": "JavaScript",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T18:54:11Z",
+                "open_issues": 0,
+                "owner": "AtharvaLakhe",
+                "repo": "PSR-Net",
+                "stars": 0,
+                "topics": [
+                  "chandrayaan-2",
+                  "computer-vision",
+                  "deep-learning",
+                  "image-restoration",
+                  "lunar",
+                  "onnx",
+                  "onnxruntime-web",
+                  "remote-sensing",
+                  "webgl"
+                ]
+              },
+              "first_seen": "2026-10-15T10:45:25.804Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Solar System Data"
         }
       ],
       "title": "Data"
@@ -587,10 +653,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-07T23:03:38Z",
-                "open_issues": 1089,
+                "open_issues": 1090,
                 "owner": "nasa",
                 "repo": "openmct",
-                "stars": 13169,
+                "stars": 13173,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:07:09.994Z"
@@ -672,7 +738,7 @@
                 "open_issues": 22,
                 "owner": "nyx-space",
                 "repo": "nyx",
-                "stars": 499,
+                "stars": 500,
                 "topics": [
                   "astrodynamics",
                   "gmat",
@@ -818,7 +884,7 @@
                 "open_issues": 1477,
                 "owner": "gazebosim",
                 "repo": "gazebo-classic",
-                "stars": 1351,
+                "stars": 1350,
                 "topics": [
                   "gazebo",
                   "gazebo-simulator",
@@ -853,7 +919,7 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-07T22:25:57Z",
-                "open_issues": 71,
+                "open_issues": 73,
                 "owner": "nasa",
                 "repo": "nos3",
                 "stars": 640,
@@ -885,11 +951,11 @@
                 "id": 577555866,
                 "language": "C",
                 "license": "ISC",
-                "last_commit": "2026-10-13T16:17:20Z",
-                "open_issues": 16,
+                "last_commit": "2026-10-14T23:49:25Z",
+                "open_issues": 13,
                 "owner": "AVSLab",
                 "repo": "basilisk",
-                "stars": 405,
+                "stars": 406,
                 "topics": [
                   "astrodynamics",
                   "control",
@@ -917,7 +983,7 @@
                 "open_issues": 4,
                 "owner": "AndrejOrsula",
                 "repo": "space_robotics_bench",
-                "stars": 200,
+                "stars": 203,
                 "topics": [
                   "benchmark",
                   "isaac-lab",
@@ -945,7 +1011,7 @@
                 "id": 30925311,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-13T22:05:38Z",
+                "last_commit": "2026-10-14T20:50:25Z",
                 "open_issues": 114,
                 "owner": "nasa",
                 "repo": "trick",
@@ -1228,8 +1294,8 @@
                 "id": 95114723,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T22:13:59Z",
-                "open_issues": 468,
+                "last_commit": "2026-10-14T22:13:44Z",
+                "open_issues": 472,
                 "owner": "nasa",
                 "repo": "fprime",
                 "stars": 11836,
@@ -1263,7 +1329,7 @@
                 "id": 95805331,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-14T06:10:24Z",
+                "last_commit": "2026-10-15T05:55:38Z",
                 "open_issues": 109,
                 "owner": "nasa",
                 "repo": "cFS",
@@ -1356,7 +1422,7 @@
                 "open_issues": 16,
                 "owner": "space-ros",
                 "repo": "space-ros",
-                "stars": 245,
+                "stars": 246,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:07:09.994Z"
@@ -1451,7 +1517,7 @@
                     "open_issues": 146,
                     "owner": "chrislgarry",
                     "repo": "Apollo-11",
-                    "stars": 75005,
+                    "stars": 75080,
                     "topics": [
                       "agc",
                       "apollo",
@@ -1510,7 +1576,7 @@
                 "open_issues": 10,
                 "owner": "brandon-rhodes",
                 "repo": "python-sgp4",
-                "stars": 474,
+                "stars": 475,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:07:09.994Z"
@@ -1793,7 +1859,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T11:02:13.452Z",
+    "last_updated": "2026-10-15T10:45:25.804Z",
     "original_repository_info": {
       "archived": false,
       "description": "🛰️🚀A list of awesome space-related packages and resources maintained by The Orbital Index",
@@ -1801,11 +1867,11 @@
       "id": 192268784,
       "language": "Ruby",
       "license": null,
-      "last_commit": "2026-10-07T20:17:34Z",
+      "last_commit": "2026-10-14T22:20:33Z",
       "open_issues": 17,
       "owner": "orbitalindex",
       "repo": "awesome-space",
-      "stars": 2229,
+      "stars": 2230,
       "topics": [
         "astronomy-apis",
         "awesome",
@@ -1813,7 +1879,7 @@
         "space"
       ]
     },
-    "original_repository_sha": "925b41b404415ba9b62cfa2ce2981b5e8b8ae7d9",
+    "original_repository_sha": "950119c3951a85a39f7b1e70f00bcb32ed97697f",
     "enhanced_repository": "enhansome/enhansome-space",
     "enhanced_repository_description": null,
     "title": "Awesome Space with stars"
