@@ -46,7 +46,7 @@
                 "id": 1391012117,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-06T08:37:33Z",
+                "last_commit": "2026-10-16T14:24:15Z",
                 "open_issues": 0,
                 "owner": "icranet",
                 "repo": "astro-mmdc",
@@ -162,7 +162,7 @@
                     "id": 433689468,
                     "language": "Rust",
                     "license": "MPL-2.0",
-                    "last_commit": "2026-10-15T15:04:28Z",
+                    "last_commit": "2026-10-16T21:42:00Z",
                     "open_issues": 30,
                     "owner": "nyx-space",
                     "repo": "anise",
@@ -222,8 +222,8 @@
                 "id": 1987576,
                 "language": "C",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-15T14:35:38Z",
-                "open_issues": 28,
+                "last_commit": "2026-10-17T01:40:01Z",
+                "open_issues": 29,
                 "owner": "hannorein",
                 "repo": "rebound",
                 "stars": 1144,
@@ -508,6 +508,55 @@
           "children": [
             {
               "node_type": "item",
+              "title": "exostab",
+              "description": "Hill spacing, angular momentum deficit and N-body (REBOUND/MEGNO) stability indicators for known multi-planet systems from the NASA Exoplanet Archive",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Is this planetary system dynamically stable? Hill spacing, angular momentum deficit and REBOUND N-body/MEGNO indicators for any multi-planet system in the NASA Exoplanet Archive, with published uncertainties propagated and every data assumption logged. Python CLI and Streamlit web app.",
+                "homepage": "https://mimitoz62.github.io/exostab/",
+                "id": 1393061914,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-16T16:56:19Z",
+                "open_issues": 25,
+                "owner": "mimitoz62",
+                "repo": "exostab",
+                "stars": 0,
+                "topics": [
+                  "astronomy",
+                  "astrophysics",
+                  "celestial-mechanics",
+                  "cli",
+                  "dynamical-systems",
+                  "exoplanet",
+                  "exoplanets",
+                  "monte-carlo-simulation",
+                  "n-body",
+                  "n-body-simulation",
+                  "nasa-exoplanet-archive",
+                  "orbital-dynamics",
+                  "orbital-mechanics",
+                  "orbital-stability",
+                  "planetary-science",
+                  "python",
+                  "rebound",
+                  "reproducible-research",
+                  "streamlit",
+                  "uncertainty-quantification"
+                ]
+              },
+              "first_seen": "2026-10-17T10:02:36.535Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Extrasolar Planets"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Launch Dashboard API",
               "description": "Open Source REST API for rocket launch telemetry",
               "children": [],
@@ -540,6 +589,40 @@
         },
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "planetary-dem-to-stl",
+              "description": "Turns any area of the Moon or Mars into a 3D-printable STL from NASA LOLA and MOLA elevation data",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Turn real Moon and Mars terrain (NASA LOLA / MOLA elevation data) into watertight, 3D-printable STL files. One command, public-domain data.",
+                "homepage": "https://orbitstudio3d.com",
+                "id": 1422523541,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-16T18:20:11Z",
+                "open_issues": 0,
+                "owner": "SimplySolid3D",
+                "repo": "planetary-dem-to-stl",
+                "stars": 0,
+                "topics": [
+                  "3d-printing",
+                  "cli",
+                  "dem",
+                  "heightmap",
+                  "lola",
+                  "mars",
+                  "mola",
+                  "moon",
+                  "planetary-science",
+                  "python",
+                  "stl",
+                  "terrain"
+                ]
+              },
+              "first_seen": "2026-10-17T10:02:36.535Z"
+            },
             {
               "node_type": "item",
               "title": "PSR-Net",
@@ -656,7 +739,7 @@
                 "open_issues": 1090,
                 "owner": "nasa",
                 "repo": "openmct",
-                "stars": 13175,
+                "stars": 13176,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:07:09.994Z"
@@ -922,7 +1005,7 @@
                 "open_issues": 74,
                 "owner": "nasa",
                 "repo": "nos3",
-                "stars": 640,
+                "stars": 641,
                 "topics": [
                   "42",
                   "cfs",
@@ -951,8 +1034,8 @@
                 "id": 577555866,
                 "language": "C",
                 "license": "ISC",
-                "last_commit": "2026-10-16T03:41:36Z",
-                "open_issues": 13,
+                "last_commit": "2026-10-17T03:32:53Z",
+                "open_issues": 14,
                 "owner": "AVSLab",
                 "repo": "basilisk",
                 "stars": 406,
@@ -1011,7 +1094,7 @@
                 "id": 30925311,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-14T20:50:25Z",
+                "last_commit": "2026-10-16T18:48:30Z",
                 "open_issues": 114,
                 "owner": "nasa",
                 "repo": "trick",
@@ -1294,11 +1377,11 @@
                 "id": 95114723,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-15T22:14:05Z",
-                "open_issues": 478,
+                "last_commit": "2026-10-16T22:14:13Z",
+                "open_issues": 473,
                 "owner": "nasa",
                 "repo": "fprime",
-                "stars": 11842,
+                "stars": 11845,
                 "topics": [
                   "components",
                   "cpp",
@@ -1329,11 +1412,11 @@
                 "id": 95805331,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T05:52:52Z",
-                "open_issues": 109,
+                "last_commit": "2026-10-17T05:37:06Z",
+                "open_issues": 110,
                 "owner": "nasa",
                 "repo": "cFS",
-                "stars": 1535,
+                "stars": 1536,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:07:09.994Z"
@@ -1422,7 +1505,7 @@
                 "open_issues": 16,
                 "owner": "space-ros",
                 "repo": "space-ros",
-                "stars": 247,
+                "stars": 248,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:07:09.994Z"
@@ -1517,7 +1600,7 @@
                     "open_issues": 146,
                     "owner": "chrislgarry",
                     "repo": "Apollo-11",
-                    "stars": 75283,
+                    "stars": 75350,
                     "topics": [
                       "agc",
                       "apollo",
@@ -1676,7 +1759,7 @@
                 "open_issues": 0,
                 "owner": "shupp",
                 "repo": "Predict",
-                "stars": 35,
+                "stars": 36,
                 "topics": [
                   "gpredict",
                   "mechanics",
@@ -1706,7 +1789,7 @@
                 "open_issues": 0,
                 "owner": "shupp",
                 "repo": "Predict",
-                "stars": 35,
+                "stars": 36,
                 "topics": [
                   "gpredict",
                   "mechanics",
@@ -1859,7 +1942,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T10:32:34.722Z",
+    "last_updated": "2026-10-17T10:02:36.535Z",
     "original_repository_info": {
       "archived": false,
       "description": "🛰️🚀A list of awesome space-related packages and resources maintained by The Orbital Index",
@@ -1867,7 +1950,7 @@
       "id": 192268784,
       "language": "Ruby",
       "license": null,
-      "last_commit": "2026-10-14T22:20:33Z",
+      "last_commit": "2026-10-16T19:45:28Z",
       "open_issues": 17,
       "owner": "orbitalindex",
       "repo": "awesome-space",
@@ -1879,7 +1962,7 @@
         "space"
       ]
     },
-    "original_repository_sha": "950119c3951a85a39f7b1e70f00bcb32ed97697f",
+    "original_repository_sha": "4869818b9ef0e6e98b2f26f86a26fcb60b5ae188",
     "enhanced_repository": "enhansome/enhansome-space",
     "enhanced_repository_description": null,
     "title": "Awesome Space with stars"
