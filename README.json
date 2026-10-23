@@ -46,7 +46,7 @@
                 "id": 1391012117,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-16T14:24:15Z",
+                "last_commit": "2026-10-22T18:36:06Z",
                 "open_issues": 0,
                 "owner": "icranet",
                 "repo": "astro-mmdc",
@@ -129,7 +129,7 @@
                     "open_issues": 1,
                     "owner": "hyqzz",
                     "repo": "Solar-Wanderer",
-                    "stars": 756,
+                    "stars": 757,
                     "topics": [
                       "3d",
                       "astronomy",
@@ -162,11 +162,11 @@
                     "id": 433689468,
                     "language": "Rust",
                     "license": "MPL-2.0",
-                    "last_commit": "2026-10-21T11:04:42Z",
-                    "open_issues": 37,
+                    "last_commit": "2026-10-22T11:04:18Z",
+                    "open_issues": 40,
                     "owner": "nyx-space",
                     "repo": "anise",
-                    "stars": 283,
+                    "stars": 284,
                     "topics": [
                       "attitude",
                       "ephemeris",
@@ -223,10 +223,10 @@
                 "language": "C",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-20T20:42:36Z",
-                "open_issues": 30,
+                "open_issues": 29,
                 "owner": "hannorein",
                 "repo": "rebound",
-                "stars": 1149,
+                "stars": 1150,
                 "topics": [
                   "astrophysics",
                   "keplerian-elements",
@@ -739,7 +739,7 @@
                 "open_issues": 1090,
                 "owner": "nasa",
                 "repo": "openmct",
-                "stars": 13183,
+                "stars": 13188,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:07:09.994Z"
@@ -821,7 +821,7 @@
                 "open_issues": 22,
                 "owner": "nyx-space",
                 "repo": "nyx",
-                "stars": 500,
+                "stars": 501,
                 "topics": [
                   "astrodynamics",
                   "gmat",
@@ -850,7 +850,7 @@
                 "id": 15879082,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-22T07:15:49Z",
+                "last_commit": "2026-10-23T06:09:03Z",
                 "open_issues": 6,
                 "owner": "AndrewAnnex",
                 "repo": "SpiceyPy",
@@ -1001,11 +1001,11 @@
                 "id": 143342045,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-21T20:44:03Z",
-                "open_issues": 74,
+                "last_commit": "2026-10-22T17:16:18Z",
+                "open_issues": 75,
                 "owner": "nasa",
                 "repo": "nos3",
-                "stars": 647,
+                "stars": 648,
                 "topics": [
                   "42",
                   "cfs",
@@ -1034,8 +1034,8 @@
                 "id": 577555866,
                 "language": "C",
                 "license": "ISC",
-                "last_commit": "2026-10-22T03:58:30Z",
-                "open_issues": 11,
+                "last_commit": "2026-10-23T03:51:29Z",
+                "open_issues": 10,
                 "owner": "AVSLab",
                 "repo": "basilisk",
                 "stars": 410,
@@ -1066,7 +1066,7 @@
                 "open_issues": 6,
                 "owner": "AndrejOrsula",
                 "repo": "space_robotics_bench",
-                "stars": 207,
+                "stars": 208,
                 "topics": [
                   "benchmark",
                   "isaac-lab",
@@ -1115,8 +1115,8 @@
                 "id": 1168689939,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-20T15:33:11Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-23T02:24:01Z",
+                "open_issues": 4,
                 "owner": "dotchance",
                 "repo": "nodalarc",
                 "stars": 6,
@@ -1220,7 +1220,7 @@
                 "open_issues": 10,
                 "owner": "FOSSASystems",
                 "repo": "FOSSASAT-1",
-                "stars": 562,
+                "stars": 563,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:07:09.994Z"
@@ -1377,11 +1377,11 @@
                 "id": 95114723,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-22T00:26:26Z",
-                "open_issues": 484,
+                "last_commit": "2026-10-22T22:14:00Z",
+                "open_issues": 488,
                 "owner": "nasa",
                 "repo": "fprime",
-                "stars": 11830,
+                "stars": 11834,
                 "topics": [
                   "components",
                   "cpp",
@@ -1412,11 +1412,11 @@
                 "id": 95805331,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-22T06:08:00Z",
+                "last_commit": "2026-10-23T06:03:11Z",
                 "open_issues": 109,
                 "owner": "nasa",
                 "repo": "cFS",
-                "stars": 1539,
+                "stars": 1541,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:07:09.994Z"
@@ -1437,7 +1437,7 @@
                 "open_issues": 10,
                 "owner": "FOSSASystems",
                 "repo": "FOSSASAT-1",
-                "stars": 562,
+                "stars": 563,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:07:09.994Z"
@@ -1458,7 +1458,7 @@
                 "open_issues": 2,
                 "owner": "the-aerospace-corporation",
                 "repo": "satcat5",
-                "stars": 512,
+                "stars": 513,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:07:09.994Z"
@@ -1505,7 +1505,7 @@
                 "open_issues": 14,
                 "owner": "space-ros",
                 "repo": "space-ros",
-                "stars": 248,
+                "stars": 249,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:07:09.994Z"
@@ -1522,7 +1522,7 @@
                 "id": 126887538,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-21T17:01:00Z",
+                "last_commit": "2026-10-22T21:26:00Z",
                 "open_issues": 1,
                 "owner": "esa",
                 "repo": "nanosat-mo-framework",
@@ -1600,7 +1600,7 @@
                     "open_issues": 146,
                     "owner": "chrislgarry",
                     "repo": "Apollo-11",
-                    "stars": 75726,
+                    "stars": 75784,
                     "topics": [
                       "agc",
                       "apollo",
@@ -1659,7 +1659,7 @@
                 "open_issues": 10,
                 "owner": "brandon-rhodes",
                 "repo": "python-sgp4",
-                "stars": 476,
+                "stars": 477,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:07:09.994Z"
@@ -1942,7 +1942,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T11:01:11.130Z",
+    "last_updated": "2026-10-23T10:54:28.023Z",
     "original_repository_info": {
       "archived": false,
       "description": "🛰️🚀A list of awesome space-related packages and resources maintained by The Orbital Index",
@@ -1951,7 +1951,7 @@
       "language": "Ruby",
       "license": null,
       "last_commit": "2026-10-16T19:45:28Z",
-      "open_issues": 15,
+      "open_issues": 16,
       "owner": "orbitalindex",
       "repo": "awesome-space",
       "stars": 2234,
