@@ -129,7 +129,7 @@
                     "open_issues": 1,
                     "owner": "hyqzz",
                     "repo": "Solar-Wanderer",
-                    "stars": 764,
+                    "stars": 765,
                     "topics": [
                       "3d",
                       "astronomy",
@@ -226,7 +226,7 @@
                 "open_issues": 29,
                 "owner": "hannorein",
                 "repo": "rebound",
-                "stars": 1153,
+                "stars": 1155,
                 "topics": [
                   "astrophysics",
                   "keplerian-elements",
@@ -739,7 +739,7 @@
                 "open_issues": 1091,
                 "owner": "nasa",
                 "repo": "openmct",
-                "stars": 13200,
+                "stars": 13202,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:07:09.994Z"
@@ -788,7 +788,7 @@
                 "open_issues": 142,
                 "owner": "poliastro",
                 "repo": "poliastro",
-                "stars": 1018,
+                "stars": 1017,
                 "topics": [
                   "astrodynamics",
                   "celestial-mechanics",
@@ -879,7 +879,7 @@
                 "id": 136834262,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-28T19:07:40Z",
+                "last_commit": "2026-11-05T00:03:40Z",
                 "open_issues": 15,
                 "owner": "open-space-collective",
                 "repo": "open-space-toolkit",
@@ -1005,7 +1005,7 @@
                 "open_issues": 77,
                 "owner": "nasa",
                 "repo": "nos3",
-                "stars": 655,
+                "stars": 657,
                 "topics": [
                   "42",
                   "cfs",
@@ -1034,8 +1034,8 @@
                 "id": 577555866,
                 "language": "C",
                 "license": "ISC",
-                "last_commit": "2026-11-03T16:24:09Z",
-                "open_issues": 8,
+                "last_commit": "2026-11-05T13:50:52Z",
+                "open_issues": 9,
                 "owner": "AVSLab",
                 "repo": "basilisk",
                 "stars": 417,
@@ -1094,8 +1094,8 @@
                 "id": 30925311,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-03T23:13:40Z",
-                "open_issues": 116,
+                "last_commit": "2026-11-04T21:18:00Z",
+                "open_issues": 117,
                 "owner": "nasa",
                 "repo": "trick",
                 "stars": 180,
@@ -1111,12 +1111,12 @@
               "repo_info": {
                 "archived": false,
                 "description": "Open-source thermo-fluid network solver (GFSSP / SINDA-FLUINT class) that runs entirely in your browser. Steady + transient, real fluids, two-phase, conjugate heat transfer. Verified against NASA benchmarks.",
-                "homepage": "https://openflume.github.io/OpenFLUME/",
+                "homepage": "https://openflume.github.io/",
                 "id": 1341200353,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-04T06:43:16Z",
-                "open_issues": 14,
+                "last_commit": "2026-11-05T06:36:22Z",
+                "open_issues": 15,
                 "owner": "OpenFLUME",
                 "repo": "OpenFLUME",
                 "stars": 7,
@@ -1414,11 +1414,11 @@
                 "id": 95114723,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-04T02:48:30Z",
-                "open_issues": 470,
+                "last_commit": "2026-11-05T01:37:49Z",
+                "open_issues": 464,
                 "owner": "nasa",
                 "repo": "fprime",
-                "stars": 11856,
+                "stars": 11857,
                 "topics": [
                   "components",
                   "cpp",
@@ -1453,7 +1453,7 @@
                 "open_issues": 108,
                 "owner": "nasa",
                 "repo": "cFS",
-                "stars": 1558,
+                "stars": 1561,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:07:09.994Z"
@@ -1495,7 +1495,7 @@
                 "open_issues": 2,
                 "owner": "the-aerospace-corporation",
                 "repo": "satcat5",
-                "stars": 513,
+                "stars": 514,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:07:09.994Z"
@@ -1613,10 +1613,10 @@
                     "language": "Assembly",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-29T03:37:54Z",
-                    "open_issues": 147,
+                    "open_issues": 149,
                     "owner": "chrislgarry",
                     "repo": "Apollo-11",
-                    "stars": 76358,
+                    "stars": 76405,
                     "topics": [
                       "agc",
                       "apollo",
@@ -1696,7 +1696,7 @@
                 "open_issues": 1,
                 "owner": "thkruz",
                 "repo": "ootk",
-                "stars": 83,
+                "stars": 84,
                 "topics": [
                   "iod",
                   "maneuvers",
@@ -1958,7 +1958,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T13:40:34.741Z",
+    "last_updated": "2026-11-05T13:53:09.776Z",
     "original_repository_info": {
       "archived": false,
       "description": "🛰️🚀A list of awesome space-related packages and resources maintained by The Orbital Index",
@@ -1966,7 +1966,7 @@
       "id": 192268784,
       "language": "Ruby",
       "license": null,
-      "last_commit": "2026-11-04T05:03:54Z",
+      "last_commit": "2026-11-04T19:47:54Z",
       "open_issues": 19,
       "owner": "orbitalindex",
       "repo": "awesome-space",
@@ -1978,7 +1978,7 @@
         "space"
       ]
     },
-    "original_repository_sha": "5b622576497340d279572a3d9155220a870592d6",
+    "original_repository_sha": "4797646d88f53aa69890a19d736c2ea5a6818a1b",
     "enhanced_repository": "enhansome/enhansome-space",
     "enhanced_repository_description": null,
     "title": "Awesome Space with stars"
