@@ -226,7 +226,7 @@
                 "open_issues": 10,
                 "owner": "hannorein",
                 "repo": "rebound",
-                "stars": 1162,
+                "stars": 1163,
                 "topics": [
                   "astrophysics",
                   "keplerian-elements",
@@ -683,7 +683,7 @@
                 "open_issues": 2,
                 "owner": "deptofdefense",
                 "repo": "hack-a-sat-library",
-                "stars": 978,
+                "stars": 977,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:07:09.994Z"
@@ -736,7 +736,7 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-12T16:50:09Z",
-                "open_issues": 1100,
+                "open_issues": 1099,
                 "owner": "nasa",
                 "repo": "openmct",
                 "stars": 13223,
@@ -788,7 +788,7 @@
                 "open_issues": 142,
                 "owner": "poliastro",
                 "repo": "poliastro",
-                "stars": 1018,
+                "stars": 1017,
                 "topics": [
                   "astrodynamics",
                   "celestial-mechanics",
@@ -821,7 +821,7 @@
                 "open_issues": 18,
                 "owner": "nyx-space",
                 "repo": "nyx",
-                "stars": 513,
+                "stars": 512,
                 "topics": [
                   "astrodynamics",
                   "gmat",
@@ -854,7 +854,7 @@
                 "open_issues": 3,
                 "owner": "AndrewAnnex",
                 "repo": "SpiceyPy",
-                "stars": 496,
+                "stars": 495,
                 "topics": [
                   "ephemeris",
                   "nasa",
@@ -967,7 +967,7 @@
                 "open_issues": 1477,
                 "owner": "gazebosim",
                 "repo": "gazebo-classic",
-                "stars": 1348,
+                "stars": 1347,
                 "topics": [
                   "gazebo",
                   "gazebo-simulator",
@@ -1001,8 +1001,8 @@
                 "id": 143342045,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-30T17:09:26Z",
-                "open_issues": 73,
+                "last_commit": "2026-11-19T16:14:13Z",
+                "open_issues": 74,
                 "owner": "nasa",
                 "repo": "nos3",
                 "stars": 668,
@@ -1034,8 +1034,8 @@
                 "id": 577555866,
                 "language": "C",
                 "license": "ISC",
-                "last_commit": "2026-11-19T14:07:22Z",
-                "open_issues": 32,
+                "last_commit": "2026-11-20T14:36:17Z",
+                "open_issues": 26,
                 "owner": "AVSLab",
                 "repo": "basilisk",
                 "stars": 427,
@@ -1094,11 +1094,11 @@
                 "id": 30925311,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-18T20:02:19Z",
-                "open_issues": 117,
+                "last_commit": "2026-11-19T23:43:22Z",
+                "open_issues": 118,
                 "owner": "nasa",
                 "repo": "trick",
-                "stars": 184,
+                "stars": 185,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:07:09.994Z"
@@ -1414,11 +1414,11 @@
                 "id": 95114723,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T23:17:28Z",
+                "last_commit": "2026-11-19T21:20:08Z",
                 "open_issues": 510,
                 "owner": "nasa",
                 "repo": "fprime",
-                "stars": 11890,
+                "stars": 11891,
                 "topics": [
                   "components",
                   "cpp",
@@ -1449,8 +1449,8 @@
                 "id": 95805331,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-19T14:14:46Z",
-                "open_issues": 110,
+                "last_commit": "2026-11-20T08:34:46Z",
+                "open_issues": 112,
                 "owner": "nasa",
                 "repo": "cFS",
                 "stars": 1583,
@@ -1616,7 +1616,7 @@
                     "open_issues": 149,
                     "owner": "chrislgarry",
                     "repo": "Apollo-11",
-                    "stars": 76751,
+                    "stars": 76759,
                     "topics": [
                       "agc",
                       "apollo",
@@ -1675,7 +1675,7 @@
                 "open_issues": 13,
                 "owner": "brandon-rhodes",
                 "repo": "python-sgp4",
-                "stars": 484,
+                "stars": 482,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:07:09.994Z"
@@ -1958,7 +1958,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T15:06:19.529Z",
+    "last_updated": "2026-11-20T14:47:26.175Z",
     "original_repository_info": {
       "archived": false,
       "description": "🛰️🚀A list of awesome space-related packages and resources maintained by The Orbital Index",
