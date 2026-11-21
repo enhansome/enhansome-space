@@ -129,7 +129,7 @@
                     "open_issues": 1,
                     "owner": "hyqzz",
                     "repo": "Solar-Wanderer",
-                    "stars": 776,
+                    "stars": 777,
                     "topics": [
                       "3d",
                       "astronomy",
@@ -739,7 +739,7 @@
                 "open_issues": 1099,
                 "owner": "nasa",
                 "repo": "openmct",
-                "stars": 13223,
+                "stars": 13225,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:07:09.994Z"
@@ -788,7 +788,7 @@
                 "open_issues": 142,
                 "owner": "poliastro",
                 "repo": "poliastro",
-                "stars": 1017,
+                "stars": 1018,
                 "topics": [
                   "astrodynamics",
                   "celestial-mechanics",
@@ -1005,7 +1005,7 @@
                 "open_issues": 74,
                 "owner": "nasa",
                 "repo": "nos3",
-                "stars": 668,
+                "stars": 669,
                 "topics": [
                   "42",
                   "cfs",
@@ -1034,8 +1034,8 @@
                 "id": 577555866,
                 "language": "C",
                 "license": "ISC",
-                "last_commit": "2026-11-20T14:36:17Z",
-                "open_issues": 26,
+                "last_commit": "2026-11-20T23:16:25Z",
+                "open_issues": 25,
                 "owner": "AVSLab",
                 "repo": "basilisk",
                 "stars": 427,
@@ -1094,14 +1094,51 @@
                 "id": 30925311,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-19T23:43:22Z",
-                "open_issues": 118,
+                "last_commit": "2026-11-20T22:38:08Z",
+                "open_issues": 111,
                 "owner": "nasa",
                 "repo": "trick",
                 "stars": 185,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:07:09.994Z"
+            },
+            {
+              "node_type": "item",
+              "title": "OpenFLUME",
+              "description": "Open-source thermo-fluid network solver (GFSSP / SINDA-FLUINT class) for propulsion feed systems, tank pressurization and blowdown, and cryogenic chilldown, with validation reports against NASA benchmarks. Use the no-install browser UI, the TypeScript library, or the Python package ().",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Open-source thermo-fluid network solver (GFSSP / SINDA-FLUINT class) that runs entirely in your browser. Steady + transient, real fluids, two-phase, conjugate heat transfer. Verified against NASA benchmarks.",
+                "homepage": "https://openflume.github.io/",
+                "id": 1341200353,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-11-19T01:45:52Z",
+                "open_issues": 17,
+                "owner": "OpenFLUME",
+                "repo": "OpenFLUME",
+                "stars": 8,
+                "topics": [
+                  "aerospace",
+                  "coolprop",
+                  "cryogenics",
+                  "engineering",
+                  "fluid-dynamics",
+                  "gfssp",
+                  "heat-transfer",
+                  "microfluidics",
+                  "network-solver",
+                  "propulsion",
+                  "rocket-engine",
+                  "simulation",
+                  "thermal-fluid",
+                  "thermodynamics",
+                  "webassembly"
+                ]
+              },
+              "first_seen": "2026-11-04T13:40:34.741Z"
             },
             {
               "node_type": "item",
@@ -1115,7 +1152,7 @@
                 "id": 1168689939,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-11T22:01:21Z",
+                "last_commit": "2026-11-20T16:33:41Z",
                 "open_issues": 0,
                 "owner": "dotchance",
                 "repo": "nodalarc",
@@ -1144,43 +1181,6 @@
                 ]
               },
               "first_seen": "2026-08-28T18:07:09.994Z"
-            },
-            {
-              "node_type": "item",
-              "title": "OpenFLUME",
-              "description": "Open-source thermo-fluid network solver (GFSSP / SINDA-FLUINT class) for propulsion feed systems, tank pressurization and blowdown, and cryogenic chilldown, with validation reports against NASA benchmarks. Use the no-install browser UI, the TypeScript library, or the Python package ().",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Open-source thermo-fluid network solver (GFSSP / SINDA-FLUINT class) that runs entirely in your browser. Steady + transient, real fluids, two-phase, conjugate heat transfer. Verified against NASA benchmarks.",
-                "homepage": "https://openflume.github.io/",
-                "id": 1341200353,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2026-11-19T01:45:52Z",
-                "open_issues": 17,
-                "owner": "OpenFLUME",
-                "repo": "OpenFLUME",
-                "stars": 7,
-                "topics": [
-                  "aerospace",
-                  "coolprop",
-                  "cryogenics",
-                  "engineering",
-                  "fluid-dynamics",
-                  "gfssp",
-                  "heat-transfer",
-                  "microfluidics",
-                  "network-solver",
-                  "propulsion",
-                  "rocket-engine",
-                  "simulation",
-                  "thermal-fluid",
-                  "thermodynamics",
-                  "webassembly"
-                ]
-              },
-              "first_seen": "2026-11-04T13:40:34.741Z"
             },
             {
               "node_type": "item",
@@ -1414,11 +1414,11 @@
                 "id": 95114723,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-19T21:20:08Z",
-                "open_issues": 510,
+                "last_commit": "2026-11-20T21:18:17Z",
+                "open_issues": 517,
                 "owner": "nasa",
                 "repo": "fprime",
-                "stars": 11891,
+                "stars": 11892,
                 "topics": [
                   "components",
                   "cpp",
@@ -1449,11 +1449,11 @@
                 "id": 95805331,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-20T08:34:46Z",
+                "last_commit": "2026-11-21T08:17:52Z",
                 "open_issues": 112,
                 "owner": "nasa",
                 "repo": "cFS",
-                "stars": 1583,
+                "stars": 1584,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:07:09.994Z"
@@ -1542,7 +1542,7 @@
                 "open_issues": 14,
                 "owner": "space-ros",
                 "repo": "space-ros",
-                "stars": 251,
+                "stars": 252,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:07:09.994Z"
@@ -1616,7 +1616,7 @@
                     "open_issues": 149,
                     "owner": "chrislgarry",
                     "repo": "Apollo-11",
-                    "stars": 76759,
+                    "stars": 76767,
                     "topics": [
                       "agc",
                       "apollo",
@@ -1672,7 +1672,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-09T15:42:35Z",
-                "open_issues": 13,
+                "open_issues": 14,
                 "owner": "brandon-rhodes",
                 "repo": "python-sgp4",
                 "stars": 482,
@@ -1958,7 +1958,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T14:47:26.175Z",
+    "last_updated": "2026-11-21T14:03:28.352Z",
     "original_repository_info": {
       "archived": false,
       "description": "🛰️🚀A list of awesome space-related packages and resources maintained by The Orbital Index",
@@ -1967,7 +1967,7 @@
       "language": "TypeScript",
       "license": null,
       "last_commit": "2026-11-18T22:20:50Z",
-      "open_issues": 28,
+      "open_issues": 32,
       "owner": "orbitalindex",
       "repo": "awesome-space",
       "stars": 2259,
