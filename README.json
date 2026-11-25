@@ -162,8 +162,8 @@
                     "id": 433689468,
                     "language": "Rust",
                     "license": "MPL-2.0",
-                    "last_commit": "2026-11-23T14:07:07Z",
-                    "open_issues": 37,
+                    "last_commit": "2026-11-25T07:32:04Z",
+                    "open_issues": 36,
                     "owner": "nyx-space",
                     "repo": "anise",
                     "stars": 296,
@@ -222,7 +222,7 @@
                 "id": 1987576,
                 "language": "C",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-24T16:41:39Z",
+                "last_commit": "2026-11-25T01:04:37Z",
                 "open_issues": 12,
                 "owner": "hannorein",
                 "repo": "rebound",
@@ -739,7 +739,7 @@
                 "open_issues": 1093,
                 "owner": "nasa",
                 "repo": "openmct",
-                "stars": 13227,
+                "stars": 13228,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:07:09.994Z"
@@ -1034,7 +1034,7 @@
                 "id": 577555866,
                 "language": "C",
                 "license": "ISC",
-                "last_commit": "2026-11-24T14:32:02Z",
+                "last_commit": "2026-11-25T15:01:16Z",
                 "open_issues": 17,
                 "owner": "AVSLab",
                 "repo": "basilisk",
@@ -1119,7 +1119,7 @@
                 "open_issues": 16,
                 "owner": "OpenFLUME",
                 "repo": "OpenFLUME",
-                "stars": 8,
+                "stars": 9,
                 "topics": [
                   "aerospace",
                   "coolprop",
@@ -1414,11 +1414,11 @@
                 "id": 95114723,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-23T21:22:27Z",
-                "open_issues": 515,
+                "last_commit": "2026-11-24T21:19:53Z",
+                "open_issues": 511,
                 "owner": "nasa",
                 "repo": "fprime",
-                "stars": 11899,
+                "stars": 11903,
                 "topics": [
                   "components",
                   "cpp",
@@ -1449,11 +1449,11 @@
                 "id": 95805331,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-24T10:57:13Z",
-                "open_issues": 115,
+                "last_commit": "2026-11-25T09:52:18Z",
+                "open_issues": 117,
                 "owner": "nasa",
                 "repo": "cFS",
-                "stars": 1592,
+                "stars": 1593,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:07:09.994Z"
@@ -1616,7 +1616,7 @@
                     "open_issues": 149,
                     "owner": "chrislgarry",
                     "repo": "Apollo-11",
-                    "stars": 76813,
+                    "stars": 76827,
                     "topics": [
                       "agc",
                       "apollo",
@@ -1692,7 +1692,7 @@
                 "id": 328847710,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-13T10:16:20Z",
+                "last_commit": "2026-11-25T15:47:48Z",
                 "open_issues": 0,
                 "owner": "thkruz",
                 "repo": "ootk",
@@ -1958,7 +1958,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T16:52:48.466Z",
+    "last_updated": "2026-11-25T16:41:09.589Z",
     "original_repository_info": {
       "archived": false,
       "description": "🛰️🚀A list of awesome space-related packages and resources maintained by The Orbital Index",
