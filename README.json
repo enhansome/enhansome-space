@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "R4yGM",
                 "repo": "SpaceXTelemetry-Api",
-                "stars": 37,
+                "stars": 38,
                 "topics": [
                   "api",
                   "astronomy",
@@ -129,7 +129,7 @@
                     "open_issues": 1,
                     "owner": "hyqzz",
                     "repo": "Solar-Wanderer",
-                    "stars": 779,
+                    "stars": 781,
                     "topics": [
                       "3d",
                       "astronomy",
@@ -162,11 +162,11 @@
                     "id": 433689468,
                     "language": "Rust",
                     "license": "MPL-2.0",
-                    "last_commit": "2026-11-26T11:04:45Z",
-                    "open_issues": 38,
+                    "last_commit": "2026-11-27T11:03:34Z",
+                    "open_issues": 39,
                     "owner": "nyx-space",
                     "repo": "anise",
-                    "stars": 297,
+                    "stars": 298,
                     "topics": [
                       "attitude",
                       "ephemeris",
@@ -571,7 +571,7 @@
                 "open_issues": 11,
                 "owner": "shahar603",
                 "repo": "Launch-Dashboard-API",
-                "stars": 121,
+                "stars": 122,
                 "topics": [
                   "launch",
                   "rocketlab",
@@ -739,7 +739,7 @@
                 "open_issues": 1093,
                 "owner": "nasa",
                 "repo": "openmct",
-                "stars": 13230,
+                "stars": 13234,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:07:09.994Z"
@@ -1005,7 +1005,7 @@
                 "open_issues": 75,
                 "owner": "nasa",
                 "repo": "nos3",
-                "stars": 672,
+                "stars": 673,
                 "topics": [
                   "42",
                   "cfs",
@@ -1034,7 +1034,7 @@
                 "id": 577555866,
                 "language": "C",
                 "license": "ISC",
-                "last_commit": "2026-11-26T00:50:19Z",
+                "last_commit": "2026-11-27T14:57:56Z",
                 "open_issues": 15,
                 "owner": "AVSLab",
                 "repo": "basilisk",
@@ -1414,11 +1414,11 @@
                 "id": 95114723,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-25T21:20:31Z",
-                "open_issues": 511,
+                "last_commit": "2026-11-26T21:17:37Z",
+                "open_issues": 512,
                 "owner": "nasa",
                 "repo": "fprime",
-                "stars": 11905,
+                "stars": 11908,
                 "topics": [
                   "components",
                   "cpp",
@@ -1449,11 +1449,11 @@
                 "id": 95805331,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-26T09:32:20Z",
+                "last_commit": "2026-11-27T09:42:04Z",
                 "open_issues": 117,
                 "owner": "nasa",
                 "repo": "cFS",
-                "stars": 1593,
+                "stars": 1595,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:07:09.994Z"
@@ -1590,7 +1590,7 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-25T18:13:16Z",
-                "open_issues": 56,
+                "open_issues": 57,
                 "owner": "cfs-tools",
                 "repo": "cfs-basecamp",
                 "stars": 61,
@@ -1616,7 +1616,7 @@
                     "open_issues": 149,
                     "owner": "chrislgarry",
                     "repo": "Apollo-11",
-                    "stars": 76853,
+                    "stars": 76865,
                     "topics": [
                       "agc",
                       "apollo",
@@ -1675,7 +1675,7 @@
                 "open_issues": 15,
                 "owner": "brandon-rhodes",
                 "repo": "python-sgp4",
-                "stars": 482,
+                "stars": 483,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:07:09.994Z"
@@ -1771,7 +1771,7 @@
                 "id": 2202868,
                 "language": "PHP",
                 "license": null,
-                "last_commit": "2026-10-18T19:23:27Z",
+                "last_commit": "2026-11-26T22:35:45Z",
                 "open_issues": 0,
                 "owner": "shupp",
                 "repo": "Predict",
@@ -1801,7 +1801,7 @@
                 "id": 2202868,
                 "language": "PHP",
                 "license": null,
-                "last_commit": "2026-10-18T19:23:27Z",
+                "last_commit": "2026-11-26T22:35:45Z",
                 "open_issues": 0,
                 "owner": "shupp",
                 "repo": "Predict",
@@ -1958,7 +1958,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T16:15:18.627Z",
+    "last_updated": "2026-11-27T15:59:39.845Z",
     "original_repository_info": {
       "archived": false,
       "description": "🛰️🚀A list of awesome space-related packages and resources maintained by The Orbital Index",
@@ -1966,11 +1966,11 @@
       "id": 192268784,
       "language": "TypeScript",
       "license": null,
-      "last_commit": "2026-11-23T18:51:00Z",
-      "open_issues": 35,
+      "last_commit": "2026-11-26T17:58:38Z",
+      "open_issues": 34,
       "owner": "orbitalindex",
       "repo": "awesome-space",
-      "stars": 2262,
+      "stars": 2265,
       "topics": [
         "astronomy-apis",
         "awesome",
@@ -1978,7 +1978,7 @@
         "space"
       ]
     },
-    "original_repository_sha": "4dc7e7e9413ff763ec8645600ff394d93a1573ad",
+    "original_repository_sha": "17c7e58bd7e6131e6ed14224391d1fa93a0bf1da",
     "enhanced_repository": "enhansome/enhansome-space",
     "enhanced_repository_description": null,
     "title": "Awesome Space with stars"
